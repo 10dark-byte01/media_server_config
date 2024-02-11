@@ -1,0 +1,14 @@
+*.db*
+*.mmdb*
+*.log*
+*logs*
+*key*
+*.pid*
+*.lock*
+*cache*
+*backup*
+*restore*
+*releases*
+*history*
+*lockfile*
+prowlarr/Definitions/*
