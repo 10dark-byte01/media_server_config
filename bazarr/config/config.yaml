@@ -157,7 +157,7 @@ proxy:
   username: ''
 radarr:
   apikey: 783154ddef234064b2f3cc46a0ce1804
-  base_url: /
+  base_url: ''
   defer_search_signalr: false
   excluded_tags: []
   full_update: Daily
