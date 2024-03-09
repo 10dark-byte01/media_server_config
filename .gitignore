@@ -1,4 +1,5 @@
 *.db*
+*db.*
 *.mmdb*
 *.log*
 *logs*
@@ -12,3 +13,5 @@
 *history*
 *lockfile*
 prowlarr/Definitions/*
+*ScheduledTasks*
+*qBittorrent-data.conf
