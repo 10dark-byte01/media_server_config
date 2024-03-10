@@ -1,9 +1,9 @@
 {
- "clientId": "fd13a49a-dbab-42ea-a8fb-1960c52626b3",
- "vapidPrivate": "pV8K3YbEzlN2C9wV10LMwdcZsi_GaKZMurYuXN3v0kU",
- "vapidPublic": "BOylE0qltlyQ4oioL28bsHEnu7W-TuvnEABKCzqDp_cXk9PwibNf5_SaPVlhN8i1gstFpdgvrd-3y728v5-dR8g",
+ "clientId": "5002f043-5fde-474d-a84b-7d9a3db77f82",
+ "vapidPrivate": "QtKsoAi1c_SdMqa9s2b0Z9YuV5dBKzz9blanYeMk6rQ",
+ "vapidPublic": "BBRXkqiDr9Fg9EAds47kZ8Xz7EdIBBCA9VuIK9JCQ38xWz5tLd74uBNsRWOuHeTwE-M4TvTBwLk20gVGJbfVhVI",
  "main": {
-  "apiKey": "MTcxMDAyNDQxNDA3OTk5ODg5YjY0LTk0MWItNGEwNC1iNGY2LWY1M2Y2NDAyODRlOA==",
+  "apiKey": "MTcxMDA3ODM5NTExODgxZTMxMDQ0LWQ0OGQtNGRiYi05ODNjLTI0MGM4OWQxYjljMw==",
   "applicationTitle": "Jellyseerr",
   "applicationUrl": "",
   "csrfProtection": false,
@@ -32,7 +32,7 @@
  },
  "jellyfin": {
   "name": "",
-  "hostname": "http://192.168.178.21:8096/",
+  "hostname": "http://media-server:8096",
   "externalHostname": "",
   "libraries": [
    {
