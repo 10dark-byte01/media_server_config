@@ -23,10 +23,12 @@
   <PublishedServerUriBySubnet />
   <AutoDiscoveryTracing>false</AutoDiscoveryTracing>
   <AutoDiscovery>true</AutoDiscovery>
-  <RemoteIPFilter />
+  <RemoteIPFilter>
+    <string>100.64.0.0/10</string>
+  </RemoteIPFilter>
   <IsRemoteIPFilterBlacklist>false</IsRemoteIPFilterBlacklist>
   <EnableUPnP>false</EnableUPnP>
-  <EnableRemoteAccess>false</EnableRemoteAccess>
+  <EnableRemoteAccess>true</EnableRemoteAccess>
   <LocalNetworkSubnets />
   <LocalNetworkAddresses />
   <KnownProxies />

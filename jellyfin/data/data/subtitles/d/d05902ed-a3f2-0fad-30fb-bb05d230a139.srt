@@ -1,0 +1,6245 @@
+1
+00:01:16,244 --> 00:01:19,539
+<i>Étoile du soir, étoile d'espoir,</i>
+
+2
+00:01:19,622 --> 00:01:22,458
+<i>première lueur dans le noir.</i>
+
+3
+00:01:22,542 --> 00:01:26,087
+<i>J'aimerais tellement,
+j'aimerais tant voir</i>
+
+4
+00:01:26,171 --> 00:01:29,549
+<i>mon vœu exaucé ce soir.</i>
+
+5
+00:01:30,758 --> 00:01:33,887
+<i>Cette histoire est un conte de fées...</i>
+
+6
+00:01:35,513 --> 00:01:37,348
+<i>Il était une fois</i>
+
+7
+00:01:37,432 --> 00:01:40,018
+<i>une étoile à vœu qui tomba du ciel.</i>
+
+8
+00:01:42,937 --> 00:01:45,648
+<i>Elle brûla tous les arbres alentour.</i>
+
+9
+00:01:46,691 --> 00:01:49,694
+<i>La Forêt Sombre était née.</i>
+
+10
+00:01:50,987 --> 00:01:53,823
+<i>L'étoile s'enfouit en son cœur,</i>
+
+11
+00:01:53,907 --> 00:01:56,159
+<i>propageant un nouveau souffle de vie</i>
+
+12
+00:01:56,659 --> 00:02:01,372
+<i>et la légende selon laquelle
+elle renfermait un vœu unique</i>
+
+13
+00:02:01,456 --> 00:02:02,874
+<i>attendant</i>
+
+14
+00:02:02,957 --> 00:02:04,501
+<i>d'être exaucé.</i>
+
+15
+00:02:07,503 --> 00:02:09,923
+{\an8}LE CHAT POTTÉ 2
+LA DERNIÈRE QUÊTE
+
+16
+00:02:16,638 --> 00:02:18,181
+Chat Potté !
+
+17
+00:02:20,767 --> 00:02:23,144
+Bienvenue à ma fiesta !
+
+18
+00:02:24,103 --> 00:02:26,105
+Faites comme chez vous.
+
+19
+00:02:27,148 --> 00:02:28,149
+Mangez,
+
+20
+00:02:28,525 --> 00:02:29,651
+buvez.
+
+21
+00:02:32,111 --> 00:02:33,321
+Salut, <i>amigo</i>,
+
+22
+00:02:33,404 --> 00:02:35,198
+content de te revoir.
+
+23
+00:02:38,284 --> 00:02:40,286
+Papa, il m'a marché sur la figure !
+
+24
+00:02:40,370 --> 00:02:42,539
+Plus jamais on ne la lavera.
+
+25
+00:02:46,918 --> 00:02:48,670
+Citoyens de Córdoba...
+
+26
+00:02:48,753 --> 00:02:50,338
+C'est Del Mar !
+
+27
+00:02:50,421 --> 00:02:52,340
+Citoyens de Del Mar,
+
+28
+00:02:52,423 --> 00:02:53,967
+acceptez ce cadeau en or
+
+29
+00:02:54,050 --> 00:02:56,553
+de la part du Chat Potté !
+
+30
+00:02:57,846 --> 00:02:58,888
+Une chanson !
+
+31
+00:02:59,305 --> 00:03:00,640
+Non, je ne peux pas.
+
+32
+00:03:00,723 --> 00:03:02,559
+Chante, Chat !
+
+33
+00:03:02,642 --> 00:03:04,102
+Non, vraiment...
+
+34
+00:03:10,024 --> 00:03:13,945
+<i>Qui est le plus téméraire des héros ?</i>
+
+35
+00:03:14,028 --> 00:03:17,949
+<i>Qui est le plus téméraire des héros ?</i>
+
+36
+00:03:18,741 --> 00:03:20,451
+<i>Qui brave le danger et la mort ?</i>
+
+37
+00:03:20,535 --> 00:03:22,620
+<i>C'est toi, c'est toi !</i>
+
+38
+00:03:22,704 --> 00:03:24,497
+<i>Qui est modeste autant qu'il est fort ?</i>
+
+39
+00:03:24,581 --> 00:03:26,040
+<i>C'est toi, c'est toi !</i>
+
+40
+00:03:26,124 --> 00:03:30,003
+<i>Qui est le plus téméraire des héros ?</i>
+
+41
+00:03:34,966 --> 00:03:36,843
+<i>Qui est le chat qui joue sa peau ?</i>
+
+42
+00:03:36,926 --> 00:03:38,094
+<i>Risquant tout quand il faut ?</i>
+
+43
+00:03:39,053 --> 00:03:41,055
+<i>Qui n'a pas pris un coup d'épée ?</i>
+
+44
+00:03:41,139 --> 00:03:42,765
+<i>Fier et sans peur, le Chat Potté</i>
+
+45
+00:03:45,977 --> 00:03:49,689
+<i>Qui est le plus téméraire des héros ?</i>
+
+46
+00:04:14,005 --> 00:04:15,173
+Mes habits !
+
+47
+00:04:15,548 --> 00:04:16,466
+Ma perruque !
+
+48
+00:04:18,885 --> 00:04:19,802
+Mon portrait !
+
+49
+00:04:24,349 --> 00:04:26,309
+Salut, gouverneur.
+
+50
+00:04:26,768 --> 00:04:27,810
+Une seconde.
+
+51
+00:04:35,693 --> 00:04:37,320
+Ce bandit de Chat Potté !
+
+52
+00:04:38,154 --> 00:04:40,615
+{\an8}LE CHAT POTTÉ
+MORT OU VIF
+
+53
+00:04:41,115 --> 00:04:43,660
+Bienvenue, <i>mi casa es su casa</i>.
+
+54
+00:04:43,743 --> 00:04:46,788
+Non, <i>su casa es mi casa</i> !
+
+55
+00:04:46,871 --> 00:04:49,165
+Arrêtez tous ces pouilleux
+
+56
+00:04:49,249 --> 00:04:52,460
+et rapportez-moi la tête du Chat Potté !
+
+57
+00:04:53,670 --> 00:04:55,755
+C'est la fête, où est la musique ?
+
+58
+00:04:55,839 --> 00:04:56,798
+<i>C'est l'épée de justice</i>
+
+59
+00:04:57,841 --> 00:04:59,717
+<i>Il combat les méchants</i>
+
+60
+00:04:59,801 --> 00:05:01,678
+<i>Défend les pauvres gens</i>
+
+61
+00:05:01,761 --> 00:05:02,971
+<i>Et en plus, il est canon</i>
+
+62
+00:05:03,054 --> 00:05:06,349
+<i>Qui est le plus téméraire des héros ?</i>
+
+63
+00:05:13,314 --> 00:05:16,109
+Le Chat Potté n'a jamais pris
+un coup d'épée.
+
+64
+00:05:16,776 --> 00:05:17,610
+Mais toi...
+
+65
+00:05:21,865 --> 00:05:23,575
+Écorchez ce chat !
+
+66
+00:05:24,033 --> 00:05:25,577
+Gouverneur, tu t'enflammes.
+
+67
+00:05:49,434 --> 00:05:50,435
+Imbéciles,
+
+68
+00:05:50,852 --> 00:05:52,896
+y a pas un chat là-dessous.
+
+69
+00:05:58,234 --> 00:05:59,485
+Nom d'un flageolet.
+
+70
+00:05:59,569 --> 00:06:01,613
+Tu as réveillé le géant endormi !
+
+71
+00:06:13,333 --> 00:06:14,375
+Hue, dada !
+
+72
+00:06:16,628 --> 00:06:17,754
+Je vole !
+
+73
+00:06:17,837 --> 00:06:20,089
+Non, tu ne voles pas.
+
+74
+00:06:20,173 --> 00:06:21,716
+Je vais te sauver.
+
+75
+00:06:22,217 --> 00:06:23,426
+Sauve-moi aussi !
+
+76
+00:06:23,510 --> 00:06:25,345
+Si ça m'arrange.
+
+77
+00:06:25,428 --> 00:06:26,763
+Toi, lance-moi.
+
+78
+00:06:28,473 --> 00:06:30,683
+Et vous autres, doublez le tempo.
+
+79
+00:06:46,908 --> 00:06:48,535
+L'épine espagnole !
+
+80
+00:07:03,925 --> 00:07:05,718
+Crains-moi si tu oses.
+
+81
+00:07:46,968 --> 00:07:47,886
+Le géant,
+
+82
+00:07:47,969 --> 00:07:50,013
+implore la clémence
+
+83
+00:07:50,096 --> 00:07:52,390
+du Chat Potté !
+
+84
+00:07:56,603 --> 00:07:58,146
+Tu veux voir un truc cool ?
+
+85
+00:08:19,584 --> 00:08:20,627
+<i>Gracias</i>, Del Mar,
+
+86
+00:08:20,710 --> 00:08:22,003
+vous avez été super.
+
+87
+00:08:22,086 --> 00:08:25,006
+Rentrez bien, bonne soirée.
+
+88
+00:08:25,340 --> 00:08:26,925
+Chat Potté !
+
+89
+00:08:29,093 --> 00:08:30,053
+Encore là ?
+
+90
+00:08:32,054 --> 00:08:34,724
+Ok, un dernier morceau.
+
+91
+00:08:34,807 --> 00:08:36,058
+Ça s'appelle
+
+92
+00:08:36,142 --> 00:08:38,269
+<i>La légende ne meurt</i>...
+
+93
+00:08:45,443 --> 00:08:46,736
+Chat...
+
+94
+00:08:48,821 --> 00:08:49,822
+Chat Potté.
+
+95
+00:08:57,080 --> 00:08:58,164
+Où suis-je ?
+
+96
+00:08:58,248 --> 00:09:00,583
+Rassure-toi,
+tu es entre de bonnes mains,
+
+97
+00:09:00,667 --> 00:09:01,751
+les miennes.
+
+98
+00:09:02,168 --> 00:09:04,045
+Je suis le médecin du village,
+
+99
+00:09:04,128 --> 00:09:06,256
+mais aussi le coiffeur,
+le véto, le dentiste
+
+100
+00:09:06,339 --> 00:09:08,049
+et le chasseur de sorcières.
+
+101
+00:09:09,425 --> 00:09:11,594
+Mon conseil d'expert :
+
+102
+00:09:11,678 --> 00:09:14,389
+bain, brushing
+et rafraîchissement de la croupe.
+
+103
+00:09:15,849 --> 00:09:17,600
+C'est le coiffeur qui parle.
+
+104
+00:09:17,684 --> 00:09:20,103
+Mais si j'endosse ma casquette
+de médecin,
+
+105
+00:09:20,186 --> 00:09:22,355
+je préconise quelques tests.
+
+106
+00:09:23,565 --> 00:09:24,732
+Réflexes.
+
+107
+00:09:25,733 --> 00:09:26,693
+Dignes d'un chat.
+
+108
+00:09:26,776 --> 00:09:28,027
+Température.
+
+109
+00:09:28,111 --> 00:09:29,696
+Lève la queue et détends-toi.
+
+110
+00:09:31,072 --> 00:09:33,533
+Crois-moi, je suis chaud bouillant.
+
+111
+00:09:34,409 --> 00:09:37,453
+Alors je te propose
+le traitement dernier cri :
+
+112
+00:09:37,537 --> 00:09:38,788
+les sangsues !
+
+113
+00:09:38,872 --> 00:09:40,540
+Pour extraire les vilaines humeurs.
+
+114
+00:09:41,666 --> 00:09:43,585
+À ta guise, je prends.
+
+115
+00:09:44,377 --> 00:09:47,463
+Docteur, merci pour tout,
+
+116
+00:09:47,547 --> 00:09:50,884
+mais je me sens au top,
+fort comme un taureau.
+
+117
+00:09:51,384 --> 00:09:54,387
+Où pourrais-je trouver du bon gaspacho ?
+
+118
+00:09:54,470 --> 00:09:56,264
+Allons, c'est sérieux.
+
+119
+00:09:56,681 --> 00:09:57,599
+Quoi donc ?
+
+120
+00:09:57,682 --> 00:09:59,392
+Chat Potté,
+
+121
+00:09:59,475 --> 00:10:00,435
+comment dire...
+
+122
+00:10:02,437 --> 00:10:03,730
+Tu es mort.
+
+123
+00:10:05,773 --> 00:10:07,901
+Docteur, pitié...
+
+124
+00:10:08,693 --> 00:10:11,487
+T'inquiète, je suis le Chat Potté !
+
+125
+00:10:11,571 --> 00:10:13,364
+Je ris au nez de la mort.
+
+126
+00:10:14,532 --> 00:10:15,450
+Tu vois ?
+
+127
+00:10:15,533 --> 00:10:19,245
+Et puis, je suis un chat,
+j'ai neuf vies.
+
+128
+00:10:19,329 --> 00:10:21,414
+Combien de fois es-tu déjà mort ?
+
+129
+00:10:23,750 --> 00:10:25,710
+Je sais pas, j'ai jamais compté.
+
+130
+00:10:25,793 --> 00:10:27,587
+Je suis pas un matheux, moi.
+
+131
+00:10:27,670 --> 00:10:30,131
+- Gato !
+- Relax, docteur.
+
+132
+00:10:30,215 --> 00:10:31,466
+Voyons voir.
+
+133
+00:10:32,217 --> 00:10:34,594
+Le lâcher de taureaux à Pampelune.
+
+134
+00:10:37,096 --> 00:10:38,306
+Bonjour, <i>señorita</i>.
+
+135
+00:10:39,265 --> 00:10:40,642
+Un petit gaspacho ?
+
+136
+00:10:43,394 --> 00:10:45,563
+C'est pas votre soir, les gars.
+
+137
+00:10:48,733 --> 00:10:52,654
+Croyez-moi, un chat retombe
+toujours sur ses pattes.
+
+138
+00:10:52,737 --> 00:10:53,655
+Regardez.
+
+139
+00:10:58,576 --> 00:11:01,412
+Le Chat Potté n'a pas besoin de pareur.
+Regardez.
+
+140
+00:11:04,165 --> 00:11:07,752
+Plus besoin de ramer,
+ça va révolutionner les transports.
+
+141
+00:11:07,836 --> 00:11:09,003
+Regardez.
+
+142
+00:11:11,089 --> 00:11:13,800
+Excusez-moi, il y a des fruits de mer ?
+
+143
+00:11:13,883 --> 00:11:15,093
+Oui, monsieur.
+
+144
+00:11:17,637 --> 00:11:20,098
+Chat, le four est trop chaud !
+
+145
+00:11:20,181 --> 00:11:22,350
+Je suis un as en cuisine.
+Regardez.
+
+146
+00:11:24,936 --> 00:11:26,646
+Et le géant, aujourd'hui.
+
+147
+00:11:28,106 --> 00:11:30,191
+Ça fait quoi...
+
+148
+00:11:30,275 --> 00:11:31,234
+quatre ?
+
+149
+00:11:32,068 --> 00:11:33,695
+Ça fait huit, Chat.
+
+150
+00:11:33,778 --> 00:11:35,154
+Tu en es à ta dernière vie.
+
+151
+00:11:35,655 --> 00:11:36,823
+Ma prescription :
+
+152
+00:11:36,906 --> 00:11:39,701
+fini les aventures,
+c'est l'heure de la retraite.
+
+153
+00:11:40,034 --> 00:11:41,786
+Moi, à la retraite ?
+
+154
+00:11:41,870 --> 00:11:43,538
+T'es aussi humoriste ?
+
+155
+00:11:44,080 --> 00:11:46,916
+Chat, y a-t-il un endroit sûr
+où tu puisses aller ?
+
+156
+00:11:47,000 --> 00:11:49,627
+Une personne de confiance
+qui puisse t'épauler ?
+
+157
+00:11:51,379 --> 00:11:54,674
+Je suis le Chat Potté, aimé de tous.
+
+158
+00:11:54,757 --> 00:11:56,342
+Quelqu'un en particulier ?
+
+159
+00:11:58,136 --> 00:12:00,430
+Comment je pourrais choisir ?
+
+160
+00:12:02,765 --> 00:12:04,225
+Voici l'adresse de Mama Luna.
+
+161
+00:12:04,809 --> 00:12:06,186
+Elle adore les chats,
+
+162
+00:12:06,269 --> 00:12:09,063
+elle recueille tous les minets,
+tu seras en sécurité.
+
+163
+00:12:09,147 --> 00:12:10,315
+Minets ?
+
+164
+00:12:10,398 --> 00:12:12,233
+Je suis pas un minet, docteur,
+
+165
+00:12:12,317 --> 00:12:14,611
+je suis le Chat Potté !
+
+166
+00:12:14,694 --> 00:12:15,904
+Plus maintenant,
+
+167
+00:12:15,987 --> 00:12:17,238
+sur ordre du coiffeur.
+
+168
+00:12:17,322 --> 00:12:19,199
+Je veux dire, sur ordre du médecin.
+
+169
+00:12:19,991 --> 00:12:21,201
+Et n'oublie pas,
+
+170
+00:12:21,743 --> 00:12:22,702
+la mort
+
+171
+00:12:22,785 --> 00:12:24,871
+vient tous nous chercher.
+
+172
+00:12:24,954 --> 00:12:26,164
+Une croquette ?
+
+173
+00:12:26,247 --> 00:12:28,499
+C'est pas ton fort,
+l'accueil du patient.
+
+174
+00:12:41,513 --> 00:12:44,557
+Je suis le Chat Potté,
+je suis le minet de personne.
+
+175
+00:12:46,684 --> 00:12:48,603
+Ce médecin est un charlatan, un fou.
+
+176
+00:12:48,686 --> 00:12:50,563
+Qu'il s'en tienne à la coiffure.
+
+177
+00:12:50,647 --> 00:12:52,398
+Dernier verre, <i>señor </i>Potté.
+
+178
+00:12:52,482 --> 00:12:55,151
+Un autre verre de lait, bien chargé.
+
+179
+00:12:55,777 --> 00:12:57,695
+Le chargé, c'est à l'arrière.
+
+180
+00:13:02,909 --> 00:13:04,327
+La retraite.
+
+181
+00:13:04,410 --> 00:13:06,996
+T'es trop beau gosse pour ça.
+
+182
+00:13:18,716 --> 00:13:20,468
+Tiens, tiens,
+
+183
+00:13:20,552 --> 00:13:23,388
+le Chat Potté en personne.
+
+184
+00:13:25,139 --> 00:13:26,391
+En chair et en os.
+
+185
+00:13:30,270 --> 00:13:32,188
+Le fameux chapeau,
+
+186
+00:13:32,272 --> 00:13:34,983
+la plume et bien sûr,
+
+187
+00:13:35,066 --> 00:13:36,526
+les bottes.
+
+188
+00:13:37,318 --> 00:13:39,571
+Mes compliments à ton cordonnier.
+
+189
+00:13:41,781 --> 00:13:43,157
+Merci.
+
+190
+00:13:43,241 --> 00:13:45,326
+Moi aussi, enchanté.
+
+191
+00:13:48,246 --> 00:13:51,916
+Je fais jamais ça,
+mais je peux avoir un autographe ?
+
+192
+00:13:52,000 --> 00:13:55,211
+Je te suis depuis fort longtemps.
+
+193
+00:13:56,546 --> 00:13:58,256
+Signe là.
+
+194
+00:13:58,339 --> 00:14:00,133
+MORT OU...
+
+195
+00:14:02,135 --> 00:14:05,346
+Le Chat Potté rit au nez de la mort,
+
+196
+00:14:05,430 --> 00:14:06,514
+chasseur de primes.
+
+197
+00:14:07,098 --> 00:14:08,600
+C'est ce qu'on dit.
+
+198
+00:14:09,142 --> 00:14:11,603
+Tu n'auras pas ta récompense
+si facilement.
+
+199
+00:14:12,854 --> 00:14:14,439
+Tu peux me croire.
+
+200
+00:14:15,273 --> 00:14:18,193
+Tout le monde pense pouvoir me vaincre,
+
+201
+00:14:18,776 --> 00:14:20,528
+mais personne ne m'a encore échappé.
+
+202
+00:14:21,988 --> 00:14:23,948
+Bon, allons droit au but.
+
+203
+00:14:24,032 --> 00:14:25,241
+Crains-moi si tu...
+
+204
+00:14:33,708 --> 00:14:35,043
+Fini de rigoler.
+
+205
+00:14:39,088 --> 00:14:41,382
+Lent. Lourdaud. Lassant.
+
+206
+00:14:55,563 --> 00:14:57,941
+Tu faillis à ta réputation, Gato.
+
+207
+00:15:31,766 --> 00:15:33,685
+J'adore
+
+208
+00:15:33,768 --> 00:15:35,603
+l'odeur de la peur.
+
+209
+00:15:48,074 --> 00:15:48,908
+Quoi ?
+
+210
+00:15:49,284 --> 00:15:51,786
+Tu vois défiler tes vies ?
+
+211
+00:15:54,414 --> 00:15:55,331
+Prends-la.
+
+212
+00:15:56,624 --> 00:15:58,585
+J'ai dit prends-la.
+
+213
+00:16:58,228 --> 00:17:01,147
+{\an8}REFUGE POUR CHATS DE MAMA LUNA
+
+214
+00:17:25,255 --> 00:17:27,214
+Je ne vous mérite plus.
+
+215
+00:17:27,715 --> 00:17:28,550
+Je suis désolé.
+
+216
+00:17:37,642 --> 00:17:40,895
+Nous sommes réunis aujourd'hui
+pour dire adieu
+
+217
+00:17:41,437 --> 00:17:42,981
+au Chat Potté.
+
+218
+00:17:43,731 --> 00:17:46,943
+Il n'y a pas de mots
+pour exprimer une telle perte.
+
+219
+00:17:47,735 --> 00:17:48,903
+Merci.
+
+220
+00:17:53,658 --> 00:17:56,160
+Mais ce serait un crime
+de ne pas essayer.
+
+221
+00:17:56,244 --> 00:17:58,997
+On lui a donné bien des noms :
+
+222
+00:17:59,080 --> 00:18:01,916
+Patte de Fer, Matou Macho,
+
+223
+00:18:02,000 --> 00:18:03,960
+le Lécheur de <i>leche</i>.
+
+224
+00:18:04,043 --> 00:18:05,795
+Pour certains, un hors-la-loi,
+
+225
+00:18:05,879 --> 00:18:07,922
+pour beaucoup, un héros,
+
+226
+00:18:08,006 --> 00:18:10,675
+pour tous, une légende.
+
+227
+00:18:11,634 --> 00:18:13,052
+J'avais raison,
+
+228
+00:18:13,136 --> 00:18:15,305
+les mots ne suffisent pas.
+
+229
+00:18:18,183 --> 00:18:20,560
+Mais peut-être qu'une chanson...
+
+230
+00:18:20,643 --> 00:18:25,106
+<i>Qui est le plus téméraire des héros ?</i>
+
+231
+00:18:30,278 --> 00:18:32,739
+<i>Pas toi, pas toi...</i>
+
+232
+00:18:57,013 --> 00:18:59,140
+Je l'ai dit au Département sanitaire,
+
+233
+00:18:59,224 --> 00:19:00,558
+y a pas de chats ici !
+
+234
+00:19:09,275 --> 00:19:11,444
+T'es pas du Département sanitaire, toi ?
+
+235
+00:19:11,528 --> 00:19:12,779
+Ça, non.
+
+236
+00:19:12,862 --> 00:19:17,158
+On ferait mieux de rentrer,
+ils nous surveillent.
+
+237
+00:19:17,242 --> 00:19:19,160
+Je m'appelle Mama Luna
+
+238
+00:19:19,244 --> 00:19:20,828
+et ici, c'est chez moi.
+
+239
+00:19:20,912 --> 00:19:22,580
+C'est aussi chez toi maintenant,
+
+240
+00:19:22,914 --> 00:19:24,582
+pour toujours.
+
+241
+00:19:27,210 --> 00:19:29,212
+<i>Chaton prend son bain</i>
+
+242
+00:19:29,295 --> 00:19:31,089
+<i>Chaton prend son bain...</i>
+
+243
+00:19:32,674 --> 00:19:35,301
+Je parie que t'as pas de nom,
+mais tu sais quoi,
+
+244
+00:19:35,677 --> 00:19:37,762
+je t'en ai trouvé un parfait.
+
+245
+00:19:38,096 --> 00:19:39,806
+Je vais t'appeler...
+
+246
+00:19:40,765 --> 00:19:42,016
+Pickles.
+
+247
+00:19:42,100 --> 00:19:44,269
+Frères matous, sœurs minettes,
+
+248
+00:19:44,352 --> 00:19:46,187
+voici votre nouveau colocataire.
+
+249
+00:19:47,355 --> 00:19:48,731
+Dis bonjour, Pickles.
+
+250
+00:19:54,988 --> 00:19:57,574
+Quoi ? J'ai dit un gros mot ?
+
+251
+00:19:57,657 --> 00:19:58,950
+C'est ma deuxième langue.
+
+252
+00:20:00,076 --> 00:20:01,661
+Fichues chaussettes.
+
+253
+00:20:01,744 --> 00:20:02,871
+Ouste !
+
+254
+00:20:19,137 --> 00:20:21,139
+C'est le pot des humains, Pickles.
+
+255
+00:20:21,222 --> 00:20:22,932
+Ça, c'est ton pot.
+
+256
+00:20:24,350 --> 00:20:26,978
+C'est donc ici qu'on perd sa dignité.
+
+257
+00:20:34,402 --> 00:20:35,778
+Y a pas moyen !
+
+258
+00:21:36,256 --> 00:21:37,757
+Tu sens son odeur ?
+
+259
+00:21:41,803 --> 00:21:44,055
+Celles-là sont trop petites
+
+260
+00:21:44,597 --> 00:21:45,890
+et celles-là
+
+261
+00:21:46,349 --> 00:21:47,934
+sont trop grandes.
+
+262
+00:21:48,476 --> 00:21:50,645
+Mais celles-ci,
+
+263
+00:21:50,728 --> 00:21:53,481
+celles-ci sont parfaites.
+
+264
+00:21:53,565 --> 00:21:56,442
+{\an8}BOUCLE D'OR ET LE CLAN DES TROIS OURS
+
+265
+00:21:57,652 --> 00:22:00,613
+Bébé, piste ce chat.
+
+266
+00:22:18,965 --> 00:22:21,134
+Tu permets ? J'essaie de manger.
+
+267
+00:22:21,217 --> 00:22:22,218
+Je veux dire...
+
+268
+00:22:23,511 --> 00:22:24,679
+Et puis zut.
+
+269
+00:22:24,762 --> 00:22:25,930
+Désolé.
+
+270
+00:22:28,850 --> 00:22:31,561
+T'es un chat qui parle ?
+Moi aussi.
+
+271
+00:22:31,644 --> 00:22:33,313
+Viens, on papote.
+
+272
+00:22:34,480 --> 00:22:36,024
+Je préfère manger.
+
+273
+00:22:36,107 --> 00:22:37,525
+Pas de problème,
+
+274
+00:22:37,609 --> 00:22:39,360
+on peut manger et papoter.
+
+275
+00:22:41,279 --> 00:22:42,947
+Tu parles espagnol ? Moi aussi.
+
+276
+00:22:43,031 --> 00:22:45,200
+Tu viens d'où ?
+T'aimes les siestes ?
+
+277
+00:22:45,283 --> 00:22:47,368
+Je parle pas non plus espagnol.
+
+278
+00:22:47,452 --> 00:22:48,828
+T'es rigolo.
+
+279
+00:22:49,871 --> 00:22:51,623
+- C'était sympa.
+- Attends.
+
+280
+00:22:52,040 --> 00:22:53,124
+Pickles ?
+
+281
+00:22:53,208 --> 00:22:54,209
+C'est ton nom ?
+
+282
+00:22:54,292 --> 00:22:56,461
+Moi, j'ai pas de nom, ni de foyer.
+
+283
+00:22:56,544 --> 00:22:58,796
+PAS WANTED - CHERCHE FOYER
+
+284
+00:22:59,380 --> 00:23:02,258
+Je suis pas un expert,
+mais t'as rien d'un pickles.
+
+285
+00:23:02,342 --> 00:23:05,053
+Et toi, t'as rien d'un chat.
+
+286
+00:23:06,888 --> 00:23:09,849
+J'avoue, je suis pas un chat,
+je suis un chien.
+
+287
+00:23:09,933 --> 00:23:11,309
+Coucou, Bonbon.
+
+288
+00:23:14,062 --> 00:23:17,273
+Pickles a une nouvelle copine,
+on dirait.
+
+289
+00:23:17,357 --> 00:23:20,235
+Je vis sous le porche,
+je me sens un peu seul.
+
+290
+00:23:20,318 --> 00:23:23,696
+Y a des rats et des mille-pattes,
+mais j'ai mon petit coin.
+
+291
+00:23:23,780 --> 00:23:25,156
+Félicitations.
+
+292
+00:23:25,240 --> 00:23:27,492
+Je viens ici pour la nourriture
+et les copains.
+
+293
+00:23:28,493 --> 00:23:29,869
+Surtout la nourriture.
+
+294
+00:23:29,953 --> 00:23:32,247
+Ne le répète pas,
+c'est important pour moi.
+
+295
+00:23:32,330 --> 00:23:34,123
+Je dirai rien, je m'en tape.
+
+296
+00:23:34,207 --> 00:23:37,335
+Tu vas garder mon secret,
+un secret entre amis ?
+
+297
+00:23:37,418 --> 00:23:38,920
+Un secret tout court.
+
+298
+00:23:39,337 --> 00:23:41,673
+C'est drôle,
+malgré notre grande amitié,
+
+299
+00:23:41,756 --> 00:23:43,550
+tu restes un mystère pour moi.
+
+300
+00:23:43,633 --> 00:23:44,759
+C'est quoi, ton histoire ?
+
+301
+00:23:44,843 --> 00:23:46,261
+Mon histoire...
+
+302
+00:23:48,930 --> 00:23:50,557
+On regarde quoi, là ?
+
+303
+00:23:52,433 --> 00:23:53,810
+Elle est terminée.
+
+304
+00:23:55,728 --> 00:23:57,355
+Tu me grattes le bidon ?
+
+305
+00:23:59,148 --> 00:24:00,650
+C'est quoi, ce délire ?
+
+306
+00:24:00,733 --> 00:24:02,443
+- Gratte.
+- Tu rêves.
+
+307
+00:24:02,527 --> 00:24:04,654
+Gratte, faut que je m'entraîne.
+
+308
+00:24:04,737 --> 00:24:06,489
+Un jour, je serai chien de thérapie.
+
+309
+00:24:06,573 --> 00:24:07,949
+De quoi tu parles ?
+
+310
+00:24:08,032 --> 00:24:09,117
+Bonne question.
+
+311
+00:24:09,200 --> 00:24:12,912
+Quand on est déprimé,
+on me gratte le bidon et ça va mieux.
+
+312
+00:24:12,996 --> 00:24:15,039
+Vas-y. Allez, gratte.
+
+313
+00:24:15,123 --> 00:24:16,124
+Toujours pas.
+
+314
+00:24:16,583 --> 00:24:19,377
+Écoute bien, je ne veux pas toucher
+
+315
+00:24:19,460 --> 00:24:20,712
+ton bidon.
+
+316
+00:24:20,795 --> 00:24:23,256
+Dacodac. Alors, tu veux quoi ?
+
+317
+00:24:23,339 --> 00:24:24,507
+Je veux
+
+318
+00:24:24,924 --> 00:24:26,634
+qu'on me laisse tranquille.
+
+319
+00:24:48,323 --> 00:24:49,574
+Te revoilà.
+
+320
+00:24:49,657 --> 00:24:51,242
+J'étais pas parti.
+
+321
+00:25:04,380 --> 00:25:06,257
+Le loup, il m'a retrouvé.
+
+322
+00:25:17,602 --> 00:25:18,728
+Bonjour, madame.
+
+323
+00:25:19,103 --> 00:25:20,522
+On cherche un chat,
+
+324
+00:25:20,605 --> 00:25:21,689
+celui-là.
+
+325
+00:25:21,773 --> 00:25:23,691
+On a une proposition à lui faire.
+
+326
+00:25:23,775 --> 00:25:26,486
+Que pourraient-ils bien proposer
+au Chat Potté ?
+
+327
+00:25:26,569 --> 00:25:27,862
+C'est quoi, un chat potté ?
+
+328
+00:25:27,946 --> 00:25:29,364
+Sérieux ?
+
+329
+00:25:29,447 --> 00:25:31,950
+Je l'ai dit au Département sanitaire,
+y a pas de chats ici.
+
+330
+00:25:32,492 --> 00:25:33,493
+Fais-la parler.
+
+331
+00:25:36,579 --> 00:25:38,081
+Excusez-moi, ma chère,
+
+332
+00:25:38,164 --> 00:25:40,291
+on cherche le légendaire Chat Potté.
+
+333
+00:25:40,375 --> 00:25:41,376
+L'auriez-vous
+
+334
+00:25:41,960 --> 00:25:43,044
+vu ?
+
+335
+00:25:43,127 --> 00:25:44,128
+Trop mou.
+
+336
+00:25:44,212 --> 00:25:47,757
+Accouche, vieille bique,
+ou je t'arrache les boyaux.
+
+337
+00:25:49,592 --> 00:25:50,718
+Trop dur !
+
+338
+00:25:50,802 --> 00:25:53,096
+C'était pas parfait.
+
+339
+00:25:53,179 --> 00:25:54,973
+Bébé, flaire sa piste.
+
+340
+00:25:55,056 --> 00:25:56,808
+Tu me donnes pas d'ordre.
+
+341
+00:25:56,891 --> 00:25:57,892
+Écoute ta frangine.
+
+342
+00:25:57,976 --> 00:25:59,519
+C'est pas ma frangine !
+
+343
+00:25:59,602 --> 00:26:01,062
+C'est une orpheline en cavale.
+
+344
+00:26:01,479 --> 00:26:03,773
+C'est ta frangine, fais ce qu'elle dit.
+
+345
+00:26:03,857 --> 00:26:07,443
+Ok, mais tout ce que je sens,
+c'est du pipi de chat.
+
+346
+00:26:07,986 --> 00:26:09,821
+Tous dans la salle sécurisée !
+
+347
+00:26:09,904 --> 00:26:11,281
+Comme à l'entraînement !
+
+348
+00:26:11,364 --> 00:26:12,907
+Elle se barre.
+
+349
+00:26:12,991 --> 00:26:14,409
+Suivez-moi, mes petits !
+
+350
+00:26:14,492 --> 00:26:16,244
+Fais-lui le coup du piano.
+
+351
+00:26:18,121 --> 00:26:21,249
+Vous croyez qu'on m'a jamais fichue
+dans un piano ?
+
+352
+00:26:23,668 --> 00:26:24,752
+C'est parti.
+
+353
+00:26:29,299 --> 00:26:31,301
+Maman, reste avec nous.
+
+354
+00:26:37,265 --> 00:26:38,933
+Y a des chats partout !
+
+355
+00:26:39,017 --> 00:26:40,143
+Y en a trop !
+
+356
+00:26:41,603 --> 00:26:42,729
+Amateurs.
+
+357
+00:26:43,897 --> 00:26:45,190
+Je serai dehors.
+
+358
+00:26:46,024 --> 00:26:48,276
+Mes chats jouent mieux que vous.
+
+359
+00:26:50,028 --> 00:26:51,446
+Bouclette, c'est lui ?
+
+360
+00:26:51,529 --> 00:26:53,990
+C'est un chien déguisé en chat.
+
+361
+00:26:54,073 --> 00:26:55,283
+Mais oui.
+
+362
+00:26:55,366 --> 00:26:56,743
+Petite fripouille.
+
+363
+00:26:56,826 --> 00:26:58,411
+Et lui ? C'est un rouquin.
+
+364
+00:27:00,997 --> 00:27:02,207
+Tu rigoles ou quoi ?
+
+365
+00:27:02,290 --> 00:27:05,376
+Tu trouves que ce vieux sac d'os puant
+
+366
+00:27:05,460 --> 00:27:07,295
+a l'air d'une légende ?
+
+367
+00:27:07,378 --> 00:27:08,463
+Ça peut pas être...
+
+368
+00:27:08,546 --> 00:27:10,715
+Le Chat Potté ! Je l'ai trouvé !
+
+369
+00:27:11,883 --> 00:27:14,928
+Le Chat Potté, mort et enterré.
+
+370
+00:27:15,011 --> 00:27:17,263
+Mort ? Non, c'est pas possible.
+
+371
+00:27:17,931 --> 00:27:20,475
+Si, une truffe, ça trompe pas.
+
+372
+00:27:20,558 --> 00:27:23,561
+Alors c'est réglé.
+Si on allait hiberner ?
+
+373
+00:27:24,729 --> 00:27:26,397
+La carte sera livrée ce soir,
+
+374
+00:27:26,481 --> 00:27:28,274
+on a qu'une chance de la voler.
+
+375
+00:27:28,358 --> 00:27:30,527
+Sinon, on trouvera jamais
+l'étoile à vœu.
+
+376
+00:27:30,944 --> 00:27:32,403
+L'étoile à vœu ?
+
+377
+00:27:32,487 --> 00:27:33,947
+Elle existe bien.
+
+378
+00:27:34,280 --> 00:27:36,533
+Elle n'exauce qu'un seul vœu.
+
+379
+00:27:36,616 --> 00:27:37,700
+Un vœu ?
+
+380
+00:27:37,784 --> 00:27:39,744
+Imaginez ce qu'on pourrait avoir.
+
+381
+00:27:39,827 --> 00:27:41,454
+Neuf vies !
+
+382
+00:27:42,413 --> 00:27:46,167
+Je vois pas pourquoi
+on avait besoin du Chat Potté.
+
+383
+00:27:46,251 --> 00:27:49,337
+Parce que personne ne vole
+Big Jack Horner.
+
+384
+00:27:50,672 --> 00:27:51,923
+Pas lui !
+
+385
+00:27:52,006 --> 00:27:54,676
+T'inquiète, ma puce,
+on l'aura, ce vœu.
+
+386
+00:27:54,759 --> 00:27:55,969
+Merci, maman.
+
+387
+00:27:56,052 --> 00:27:58,721
+Oui, parce que moi, j'ai un plan.
+
+388
+00:27:58,805 --> 00:28:01,474
+Je peux piquer une carte
+aussi bien qu'un chat.
+
+389
+00:28:02,308 --> 00:28:04,310
+Toi, t'as un plan ?
+
+390
+00:28:04,394 --> 00:28:06,688
+Quoi ?
+Je suis futé, hein, papa ?
+
+391
+00:28:06,771 --> 00:28:07,897
+Non,
+
+392
+00:28:07,981 --> 00:28:10,275
+t'as pas inventé l'eau chaude.
+
+393
+00:28:10,358 --> 00:28:12,694
+Voler Big Jack Horner...
+
+394
+00:28:12,777 --> 00:28:14,028
+Très risqué.
+
+395
+00:28:14,112 --> 00:28:17,240
+Mais ce vœu me rendrait mes vies.
+
+396
+00:28:17,323 --> 00:28:18,950
+Et si je reprends ma vie,
+
+397
+00:28:19,033 --> 00:28:20,702
+adieu Pickles !
+
+398
+00:28:20,785 --> 00:28:22,495
+Tu t'en vas, Pickles ?
+
+399
+00:28:22,579 --> 00:28:24,372
+Perro, creuse.
+
+400
+00:28:26,457 --> 00:28:30,086
+Si ce Chat Potté est si connu,
+ne profanons pas sa tombe.
+
+401
+00:28:30,712 --> 00:28:32,589
+Il ne t'en voudra pas
+
+402
+00:28:32,672 --> 00:28:34,215
+car lui,
+
+403
+00:28:36,426 --> 00:28:37,886
+c'est moi !
+
+404
+00:28:43,683 --> 00:28:45,518
+Normalement, j'ai une épée.
+
+405
+00:28:45,602 --> 00:28:47,145
+Ça rend beaucoup mieux.
+
+406
+00:28:47,228 --> 00:28:49,022
+Pickles, t'es le Chat Potté ?
+
+407
+00:28:49,105 --> 00:28:50,690
+Pas encore, mais bientôt.
+
+408
+00:28:50,773 --> 00:28:53,026
+Je viens avec toi.
+
+409
+00:28:53,109 --> 00:28:54,194
+Désolé, Perro,
+
+410
+00:28:54,277 --> 00:28:56,362
+le Chat Potté chevauche en solo !
+
+411
+00:29:04,162 --> 00:29:05,622
+Ouvrez les portes !
+
+412
+00:29:18,927 --> 00:29:21,971
+Pas touche à la marchandise,
+on s'en occupe.
+
+413
+00:29:23,056 --> 00:29:25,225
+J'entre et je ressors.
+Le tour est joué.
+
+414
+00:29:25,308 --> 00:29:26,518
+Les doigts dans le nez.
+
+415
+00:29:27,685 --> 00:29:30,188
+- Pourquoi t'es là ?
+- Je t'apporte une épée.
+
+416
+00:29:30,271 --> 00:29:32,357
+C'est pas une épée,
+c'est un bâton.
+
+417
+00:29:32,440 --> 00:29:33,608
+Un bâton-épée.
+
+418
+00:29:33,691 --> 00:29:36,194
+- Rentre chez toi.
+- C'est là où sont mes amis.
+
+419
+00:29:36,277 --> 00:29:37,862
+Je répète, on n'est pas amis.
+
+420
+00:29:37,946 --> 00:29:39,405
+Un gratouillis porte-bonheur ?
+
+421
+00:29:39,489 --> 00:29:40,990
+J'ai pas besoin de ça,
+
+422
+00:29:41,533 --> 00:29:43,743
+je suis le roi du chapardage.
+
+423
+00:29:43,826 --> 00:29:44,869
+Regarde.
+
+424
+00:29:48,665 --> 00:29:49,958
+T'es le meilleur.
+
+425
+00:29:57,090 --> 00:29:58,258
+TARTES HORNER
+
+426
+00:30:08,351 --> 00:30:10,645
+Je déclare cette fournée
+
+427
+00:30:11,771 --> 00:30:12,772
+délicieuse.
+
+428
+00:30:16,192 --> 00:30:17,360
+Expédiez-les !
+
+429
+00:30:19,070 --> 00:30:20,947
+M. Horner,
+
+430
+00:30:21,030 --> 00:30:23,449
+les Sœurs Serpent ont votre livraison.
+
+431
+00:30:23,533 --> 00:30:24,909
+C'est bien elle ?
+
+432
+00:30:24,993 --> 00:30:27,537
+La carte de l'étoile à vœu !
+
+433
+00:30:27,620 --> 00:30:29,289
+Arrêtez tout. Vous deux,
+
+434
+00:30:29,372 --> 00:30:32,125
+venez avec moi à la salle des trophées.
+
+435
+00:30:32,208 --> 00:30:35,670
+On en a tué plus d'un
+pour avoir cette carte.
+
+436
+00:30:35,753 --> 00:30:36,880
+Pour commencer...
+
+437
+00:30:36,963 --> 00:30:38,715
+À la salle des trophées !
+
+438
+00:30:53,188 --> 00:30:55,273
+Tous ces trucs magiques !
+
+439
+00:30:55,356 --> 00:30:58,568
+Je collectionne
+les objets enchantés, les icônes,
+
+440
+00:30:58,651 --> 00:31:01,779
+les pompons et tout le tralala.
+
+441
+00:31:01,863 --> 00:31:04,699
+Vise un peu,
+je marche sur un tapis volant.
+
+442
+00:31:04,782 --> 00:31:05,950
+Mazette !
+
+443
+00:31:06,034 --> 00:31:08,286
+Le mini-navire des Lilliputiens.
+
+444
+00:31:08,369 --> 00:31:11,456
+La vache !
+C'est des cornes de licornes ?
+
+445
+00:31:11,539 --> 00:31:13,041
+De bébés licornes.
+
+446
+00:31:13,124 --> 00:31:15,376
+Deux fois moins lourdes,
+deux fois plus pointues.
+
+447
+00:31:15,460 --> 00:31:16,920
+Une tuerie.
+
+448
+00:31:17,003 --> 00:31:18,171
+C'est des babioles,
+
+449
+00:31:18,254 --> 00:31:21,799
+rien à voir avec le pouvoir magique
+de l'étoile à vœu.
+
+450
+00:31:21,883 --> 00:31:23,843
+D'ailleurs, envoyez le coffre.
+
+451
+00:31:23,927 --> 00:31:25,094
+Ça marche, patron.
+
+452
+00:31:25,178 --> 00:31:28,723
+Comme je le disais,
+on en a tué plus d'un...
+
+453
+00:31:28,806 --> 00:31:30,433
+Envoyez le coffre !
+
+454
+00:31:31,601 --> 00:31:34,729
+Après tant d'années de recherches,
+
+455
+00:31:34,812 --> 00:31:36,689
+le moment est arrivé.
+
+456
+00:31:37,398 --> 00:31:39,025
+Grâce à ce vœu,
+
+457
+00:31:39,442 --> 00:31:41,069
+je vais enfin devenir
+
+458
+00:31:41,152 --> 00:31:43,738
+le maître de toutes les magies.
+
+459
+00:31:43,821 --> 00:31:45,031
+Little Jack !
+
+460
+00:31:47,367 --> 00:31:48,535
+Plaît-il ?
+
+461
+00:31:48,618 --> 00:31:51,496
+Faites le coup du pouce,
+comme dans le conte de fées.
+
+462
+00:31:51,579 --> 00:31:54,749
+C'est pas un conte de fées,
+juste une comptine.
+
+463
+00:31:54,832 --> 00:31:57,252
+Ah oui, le truc ringard.
+
+464
+00:31:57,335 --> 00:31:59,420
+<i>Little Jack Horner s'assit en tailleur</i>
+
+465
+00:31:59,504 --> 00:32:01,172
+<i>En mangeant une tarte maison</i>
+
+466
+00:32:01,631 --> 00:32:03,967
+<i>Je pique du pouce une prune en douce</i>
+
+467
+00:32:04,050 --> 00:32:07,303
+<i>Car je suis un bon garçon</i>
+
+468
+00:32:08,680 --> 00:32:10,181
+Une marionnette magique !
+
+469
+00:32:10,265 --> 00:32:13,768
+<i>Je suis un vrai garçon,
+j'ai brisé mes liens</i>
+
+470
+00:32:14,602 --> 00:32:15,854
+Merci !
+
+471
+00:32:16,229 --> 00:32:19,065
+Où est l'exploit ?
+Je suis un garçon depuis toujours !
+
+472
+00:32:20,692 --> 00:32:24,362
+Little Jack Horner
+n'avait rien de magique.
+
+473
+00:32:24,445 --> 00:32:28,449
+Ce n'était qu'un pitoyable
+petit boulanger potelé.
+
+474
+00:32:28,950 --> 00:32:31,202
+Little Jack est mort,
+
+475
+00:32:31,286 --> 00:32:33,663
+je suis Big Jack Horner.
+
+476
+00:32:34,497 --> 00:32:36,124
+Monsieur Big Jack Horner,
+
+477
+00:32:37,000 --> 00:32:38,042
+je la connais à peine.
+
+478
+00:32:44,757 --> 00:32:47,135
+Le tour est joué,
+les doigts dans le nez.
+
+479
+00:32:50,346 --> 00:32:51,806
+- Chat ?
+- Kitty ?
+
+480
+00:32:55,351 --> 00:32:57,937
+{\an8}KITTY PATTES DE VELOURS
+
+481
+00:32:59,355 --> 00:33:00,773
+C'est mon coup.
+
+482
+00:33:00,857 --> 00:33:03,651
+Non, c'est le mien, je double les ours.
+
+483
+00:33:03,735 --> 00:33:05,195
+Non, c'est moi.
+
+484
+00:33:05,278 --> 00:33:07,447
+Ils ont voulu me recruter
+tout à l'heure.
+
+485
+00:33:07,530 --> 00:33:09,240
+Moi, y a deux semaines.
+
+486
+00:33:09,324 --> 00:33:11,534
+Ça fait de toi un plan B.
+
+487
+00:33:13,036 --> 00:33:14,329
+Le voilà.
+
+488
+00:33:15,246 --> 00:33:17,123
+À propos du paiement...
+
+489
+00:33:18,082 --> 00:33:20,877
+Minute, vous nous aviez promis
+notre poids en or.
+
+490
+00:33:20,960 --> 00:33:24,339
+Effectivement.
+Vous connaissez le toucher de Midas ?
+
+491
+00:33:24,422 --> 00:33:25,882
+Cool, preum's !
+
+492
+00:33:28,092 --> 00:33:29,636
+Je me suis emballée !
+
+493
+00:33:30,845 --> 00:33:33,223
+Ne jamais contrarier Jack Horner.
+
+494
+00:33:33,306 --> 00:33:35,600
+C'est quoi, ça ?
+T'es en mode pirate ?
+
+495
+00:33:36,184 --> 00:33:39,395
+On dirait qu'un putois
+est venu mourir sous ton nez.
+
+496
+00:33:39,979 --> 00:33:41,105
+De honte.
+
+497
+00:33:41,189 --> 00:33:42,732
+Moque-toi en silence.
+
+498
+00:33:42,815 --> 00:33:44,651
+Je déteste, c'est répugnant.
+
+499
+00:33:44,734 --> 00:33:47,028
+Moi, j'adore, c'est élégant.
+
+500
+00:33:55,578 --> 00:33:58,748
+Bien joué, Bébé, un vrai félin.
+
+501
+00:34:05,463 --> 00:34:07,172
+Je peux partir ?
+
+502
+00:34:07,257 --> 00:34:08,925
+Oui, merci...
+
+503
+00:34:10,844 --> 00:34:13,513
+- Chat Potté ?
+- Bouclette, les ours.
+
+504
+00:34:13,847 --> 00:34:16,516
+- <i>Hola</i>, Jack.
+- Kitty Pattes de Velours.
+
+505
+00:34:16,599 --> 00:34:19,811
+Dis donc, t'as du culot de revenir ici.
+
+506
+00:34:19,893 --> 00:34:22,188
+Arrête, j'étais ta meilleure voleuse.
+
+507
+00:34:22,272 --> 00:34:24,315
+- Tu m'as cambriolé !
+- Tu m'as piégée.
+
+508
+00:34:24,399 --> 00:34:27,110
+T'étais censée partir
+en retraite spirituelle.
+
+509
+00:34:28,360 --> 00:34:30,112
+Et toi, t'es censé être mort.
+
+510
+00:34:30,196 --> 00:34:31,364
+Ça va mieux.
+
+511
+00:34:31,781 --> 00:34:34,409
+- Donnez-nous la carte.
+- Et une douzaine de tartes.
+
+512
+00:34:34,492 --> 00:34:37,620
+- Vous en avez des salées ?
+- Elles sont à quoi ?
+
+513
+00:34:37,704 --> 00:34:39,246
+Vous vendez à emporter ?
+
+514
+00:34:39,330 --> 00:34:42,958
+Arrêtez avec vos fichues tartes,
+concentrez-vous !
+
+515
+00:34:43,042 --> 00:34:46,337
+Filez-moi la carte
+ou je vous zigouille tous.
+
+516
+00:34:47,922 --> 00:34:49,007
+La poisse.
+
+517
+00:34:49,340 --> 00:34:50,425
+Ça s'écroule !
+
+518
+00:34:55,889 --> 00:34:57,140
+Je déteste
+
+519
+00:34:57,765 --> 00:34:59,309
+les animaux qui parlent.
+
+520
+00:35:03,438 --> 00:35:04,898
+Reviens ici.
+
+521
+00:35:04,981 --> 00:35:06,816
+Le meilleur voleur l'emporte.
+
+522
+00:35:07,609 --> 00:35:08,651
+T'as raison,
+
+523
+00:35:09,152 --> 00:35:10,486
+la meilleure.
+
+524
+00:35:10,570 --> 00:35:11,654
+C'est pas vrai !
+
+525
+00:35:13,031 --> 00:35:14,741
+Là-bas, ils s'échappent !
+
+526
+00:35:29,589 --> 00:35:32,509
+Sympa de t'avoir revu,
+mais je dois filer.
+
+527
+00:35:34,594 --> 00:35:36,262
+Par ici, mon minou.
+
+528
+00:35:38,014 --> 00:35:39,974
+Un bâton ? Tu vas faire quoi...
+
+529
+00:35:40,975 --> 00:35:42,185
+Mes doigts !
+
+530
+00:35:43,478 --> 00:35:45,021
+T'aurais pas dû, mon gars.
+
+531
+00:35:48,399 --> 00:35:49,484
+Quel boulet.
+
+532
+00:35:55,406 --> 00:35:57,867
+J'ai trouvé un sandwich, y a du thon...
+
+533
+00:35:57,951 --> 00:35:59,577
+- Démarre !
+- Dacodac.
+
+534
+00:36:08,169 --> 00:36:11,464
+- Une nouvelle dans l'équipe !
+- On n'est pas une équipe.
+
+535
+00:36:11,548 --> 00:36:13,007
+Regarde la route.
+
+536
+00:36:13,091 --> 00:36:14,092
+C'est qui, lui ?
+
+537
+00:36:14,175 --> 00:36:16,344
+- Le meilleur ami de Chat.
+- Pas du tout.
+
+538
+00:36:16,427 --> 00:36:18,930
+- Et son chien de thérapie.
+- Certainement pas.
+
+539
+00:36:19,013 --> 00:36:21,182
+Enfin !
+T'as besoin d'une thérapie.
+
+540
+00:36:24,352 --> 00:36:25,854
+Donne-la-moi, fais-moi confiance.
+
+541
+00:36:25,937 --> 00:36:28,857
+Te faire confiance,
+comme à Santa Coloma ?
+
+542
+00:36:28,940 --> 00:36:30,316
+Sérieux, Santa Coloma ?
+
+543
+00:36:36,030 --> 00:36:37,156
+- À moi !
+- À moi !
+
+544
+00:36:54,215 --> 00:36:56,759
+Braves gens,
+acceptez ce cadeau en or
+
+545
+00:36:56,843 --> 00:36:59,095
+de la part du Chat Potté !
+
+546
+00:37:11,608 --> 00:37:13,026
+Fonce !
+
+547
+00:37:16,696 --> 00:37:19,699
+Rassemble les Douze Briochards.
+
+548
+00:37:21,326 --> 00:37:22,577
+Attention, c'est fragile.
+
+549
+00:37:23,661 --> 00:37:24,913
+Je prends ça
+
+550
+00:37:24,996 --> 00:37:27,165
+et ça, ces trucs-là, ce machin-là
+
+551
+00:37:27,248 --> 00:37:28,249
+et ce bidule.
+
+552
+00:37:33,922 --> 00:37:35,590
+<i>Bois-moi
+Mange-moi</i>
+
+553
+00:37:35,673 --> 00:37:37,258
+Toutes ces choses-là.
+
+554
+00:37:38,092 --> 00:37:39,844
+Ça, c'est parfait.
+
+555
+00:37:52,774 --> 00:37:55,318
+Je vous retrouverai, mes chatons,
+
+556
+00:37:55,401 --> 00:37:57,695
+sans oublier votre toutou.
+
+557
+00:38:03,159 --> 00:38:04,160
+Quoi ?
+
+558
+00:38:04,619 --> 00:38:05,787
+Y a rien,
+
+559
+00:38:06,287 --> 00:38:07,539
+on s'est fait rouler !
+
+560
+00:38:07,622 --> 00:38:08,748
+Où est...
+
+561
+00:38:10,041 --> 00:38:11,835
+Je savais que ça ferait ça.
+
+562
+00:38:11,918 --> 00:38:13,002
+"La Forêt Sombre
+
+563
+00:38:13,461 --> 00:38:14,879
+est un dédale,
+
+564
+00:38:14,963 --> 00:38:17,507
+sous son manteau se trouve l'étoile."
+
+565
+00:38:18,508 --> 00:38:20,134
+La Forêt Sombre ?
+
+566
+00:38:20,218 --> 00:38:22,512
+Personne ne s'y aventure.
+
+567
+00:38:22,595 --> 00:38:24,013
+Ni n'en réchappe.
+
+568
+00:38:24,639 --> 00:38:27,183
+"Un vœu unique brille intensément,
+
+569
+00:38:27,267 --> 00:38:28,560
+cette carte est la clé,
+
+570
+00:38:28,643 --> 00:38:29,853
+allez de l'avant."
+
+571
+00:38:32,772 --> 00:38:33,857
+Toi, lâche.
+
+572
+00:38:33,940 --> 00:38:35,024
+Un bâton ?
+
+573
+00:38:36,067 --> 00:38:37,360
+Et ton épée ?
+
+574
+00:38:37,443 --> 00:38:40,446
+Je l'ai jetée, elle m'avantageait trop.
+
+575
+00:38:40,530 --> 00:38:41,823
+Je voulais de la difficulté.
+
+576
+00:38:41,906 --> 00:38:44,075
+T'étais en difficulté tout à l'heure.
+
+577
+00:38:45,743 --> 00:38:47,453
+C'est pas toi qui tiens la carte.
+
+578
+00:38:47,537 --> 00:38:49,914
+Et c'est pas toi qui tiens la carte.
+
+579
+00:38:49,998 --> 00:38:50,999
+Je peux le faire.
+
+580
+00:38:52,876 --> 00:38:55,295
+Bien sûr.
+Tu sors d'où, au fait ?
+
+581
+00:38:55,378 --> 00:38:56,754
+Du gang des chihuahuas ?
+
+582
+00:38:56,838 --> 00:38:58,131
+Pas que je sache.
+
+583
+00:38:58,214 --> 00:38:59,299
+Je te crois pas.
+
+584
+00:38:59,382 --> 00:39:02,260
+C'est pas grave,
+tant que tu crois en toi.
+
+585
+00:39:04,179 --> 00:39:05,805
+Il a un grain ?
+
+586
+00:39:06,723 --> 00:39:09,601
+- Ton nom ?
+- On m'en a donné plein.
+
+587
+00:39:09,684 --> 00:39:12,645
+Chien, Sale clebs,
+Clébard, Toi là-bas,
+
+588
+00:39:12,729 --> 00:39:14,397
+Sors de là, Lâche ça,
+
+589
+00:39:14,480 --> 00:39:15,732
+Gros rat, Petite fouine,
+
+590
+00:39:15,815 --> 00:39:17,775
+Face de pet, Crotte sur pattes,
+Sac à m...
+
+591
+00:39:18,359 --> 00:39:19,527
+Vous voyez le genre.
+
+592
+00:39:19,611 --> 00:39:22,614
+Mais j'en ai jamais eu un
+qui m'aille bien,
+
+593
+00:39:23,072 --> 00:39:24,574
+qui soit rien qu'à moi.
+
+594
+00:39:25,116 --> 00:39:27,035
+- Il a fini ?
+- Et toi, t'es qui ?
+
+595
+00:39:27,118 --> 00:39:30,121
+Pattes de Velours.
+Kitty Pattes de Velours.
+
+596
+00:39:30,914 --> 00:39:32,582
+C'est canon, comme nom.
+
+597
+00:39:32,665 --> 00:39:34,334
+Ça sonne bien.
+
+598
+00:39:34,417 --> 00:39:36,753
+Kitty Pattes de Velours.
+
+599
+00:39:36,836 --> 00:39:39,547
+Bien tenté. Le coup classique.
+
+600
+00:39:39,631 --> 00:39:42,175
+Personne n'est aussi bête,
+ni aussi gentil.
+
+601
+00:39:42,258 --> 00:39:44,219
+- J'ai pas confiance en toi.
+- Moi non plus.
+
+602
+00:39:44,302 --> 00:39:45,887
+On peut pas lui faire confiance.
+
+603
+00:39:45,970 --> 00:39:49,224
+Mais je lui fais plus confiance
+qu'à toi.
+
+604
+00:39:49,933 --> 00:39:52,268
+Je sens qu'on va bien s'amuser.
+
+605
+00:40:25,802 --> 00:40:27,178
+Ça doit être
+
+606
+00:40:27,262 --> 00:40:28,763
+la Forêt Sombre.
+
+607
+00:40:40,692 --> 00:40:41,985
+Il est plus là !
+
+608
+00:40:42,068 --> 00:40:43,236
+Il est revenu !
+
+609
+00:40:44,654 --> 00:40:46,322
+Y a rien à craindre.
+
+610
+00:40:47,699 --> 00:40:49,200
+Entrons tous en même temps.
+
+611
+00:40:49,284 --> 00:40:50,368
+Prêts ?
+
+612
+00:40:50,451 --> 00:40:52,245
+Un, deux, après toi !
+
+613
+00:40:52,328 --> 00:40:53,371
+Quoi ?
+
+614
+00:40:56,499 --> 00:40:58,626
+Chien ? T'es en vie ?
+
+615
+00:40:58,710 --> 00:41:00,545
+- Allons voir.
+- Attends.
+
+616
+00:41:14,851 --> 00:41:17,770
+Pour une forêt sombre,
+cet endroit est
+
+617
+00:41:17,854 --> 00:41:19,230
+plutôt coloré.
+
+618
+00:41:19,314 --> 00:41:21,482
+Je fêterais bien mon anniversaire ici.
+
+619
+00:41:21,566 --> 00:41:24,611
+L'étoile à vœu est là, quelque part.
+
+620
+00:41:24,694 --> 00:41:27,447
+Kitty, puis-je voir la carte ?
+
+621
+00:41:27,530 --> 00:41:28,781
+- Non.
+- Sérieux ?
+
+622
+00:41:28,865 --> 00:41:31,201
+Je peux pas la tenir une minute ?
+
+623
+00:41:31,284 --> 00:41:33,203
+Même pas une seconde.
+
+624
+00:41:33,286 --> 00:41:34,412
+Voyons, Kitty,
+
+625
+00:41:34,495 --> 00:41:37,498
+tu dois me faire confiance.
+
+626
+00:41:38,791 --> 00:41:41,044
+Qu'est-ce qu'il fait avec ses yeux ?
+
+627
+00:41:41,836 --> 00:41:43,338
+Ils grossissent.
+
+628
+00:41:44,547 --> 00:41:45,798
+Kitty,
+
+629
+00:41:45,882 --> 00:41:48,009
+fais-lui confiance, t'as vu ses yeux ?
+
+630
+00:41:48,092 --> 00:41:50,345
+Ah bon, tu trouves ça mignon ?
+
+631
+00:41:52,013 --> 00:41:53,681
+Regarde-la.
+
+632
+00:41:53,765 --> 00:41:55,558
+Ses yeux sont encore
+
+633
+00:41:55,642 --> 00:41:57,852
+plus gros, fais ce qu'elle te dit.
+
+634
+00:41:58,520 --> 00:41:59,604
+Une seconde.
+
+635
+00:41:59,687 --> 00:42:00,980
+Trop soyeux !
+
+636
+00:42:02,065 --> 00:42:03,358
+Avec les papattes !
+
+637
+00:42:03,441 --> 00:42:04,567
+Arrête.
+
+638
+00:42:04,943 --> 00:42:06,778
+Avec le chapeau !
+
+639
+00:42:06,861 --> 00:42:08,571
+C'est tellement
+
+640
+00:42:08,655 --> 00:42:09,781
+mignon.
+
+641
+00:42:09,864 --> 00:42:11,991
+Trop mignon pour moi !
+
+642
+00:42:14,202 --> 00:42:15,828
+On la regarde, cette carte ?
+
+643
+00:42:20,583 --> 00:42:22,710
+"Suivez ce plan enchanteur,
+
+644
+00:42:22,794 --> 00:42:24,128
+il voit vos pas
+
+645
+00:42:24,212 --> 00:42:26,422
+et lit dans vos cœurs."
+
+646
+00:42:27,382 --> 00:42:28,883
+C'est nous ?
+
+647
+00:42:44,732 --> 00:42:45,900
+On doit traverser
+
+648
+00:42:45,984 --> 00:42:47,819
+{\an8}la Vallée de l'Incinération,
+
+649
+00:42:47,902 --> 00:42:49,487
+{\an8}la Crête des Damnés
+
+650
+00:42:49,571 --> 00:42:51,406
+{\an8}et le Gouffre des Âmes Perdues !
+
+651
+00:42:51,823 --> 00:42:53,658
+- Sans blague ?
+- Fais voir.
+
+652
+00:43:07,755 --> 00:43:08,965
+Quoi ?
+
+653
+00:43:09,048 --> 00:43:11,217
+{\an8}Le Marais de la Tristesse Infinie ?
+
+654
+00:43:11,301 --> 00:43:12,844
+{\an8}Les Montagnes du Malheur ?
+
+655
+00:43:13,303 --> 00:43:15,430
+{\an8}L'Abysse de la Solitude Éternelle ?
+
+656
+00:43:15,513 --> 00:43:17,807
+Y a un truc qui cloche dans cette carte.
+
+657
+00:43:17,891 --> 00:43:20,393
+À chacun son terrible chemin.
+
+658
+00:43:20,476 --> 00:43:21,769
+C'est comme si la forêt
+
+659
+00:43:21,853 --> 00:43:24,147
+empêchait quiconque de faire un vœu.
+
+660
+00:43:24,230 --> 00:43:26,691
+Moi, j'en ai même pas.
+Je peux ?
+
+661
+00:43:34,699 --> 00:43:37,035
+{\an8}Ça dit de traverser
+la Poche aux Pétales.
+
+662
+00:43:37,118 --> 00:43:38,244
+Quoi ?
+
+663
+00:43:38,328 --> 00:43:40,496
+{\an8}Descendre la Rivière de la Relaxation.
+
+664
+00:43:40,580 --> 00:43:41,956
+- Sympa.
+- C'est pas juste.
+
+665
+00:43:42,040 --> 00:43:43,416
+Pourquoi il a le bon chemin ?
+
+666
+00:43:43,499 --> 00:43:45,502
+{\an8}Flâner dans le Champ
+des Solutions Simples
+
+667
+00:43:45,585 --> 00:43:47,086
+et atteindre l'étoile.
+
+668
+00:43:48,588 --> 00:43:49,881
+Ça a l'air super !
+
+669
+00:43:49,964 --> 00:43:52,800
+Mais c'est votre quête,
+je veux pas m'imposer.
+
+670
+00:43:52,884 --> 00:43:54,761
+- Prends la carte.
+- Vraiment ?
+
+671
+00:43:54,844 --> 00:43:56,095
+Mais pas d'entourloupe,
+
+672
+00:43:56,179 --> 00:43:58,806
+sinon, on t'appellera Perro Muerto.
+
+673
+00:43:59,224 --> 00:44:00,308
+Dacodac.
+
+674
+00:44:03,228 --> 00:44:04,270
+Attendez,
+
+675
+00:44:04,354 --> 00:44:05,605
+ce serait pas...
+
+676
+00:44:07,315 --> 00:44:09,359
+Il pleut des ours.
+En route.
+
+677
+00:44:10,693 --> 00:44:12,946
+Croyez-moi, quand ce vœu sera à nous,
+
+678
+00:44:13,029 --> 00:44:15,698
+tout deviendra parfait pour nous tous.
+
+679
+00:44:15,782 --> 00:44:17,116
+On deviendra riches ?
+
+680
+00:44:17,200 --> 00:44:19,410
+Assez riches
+pour hiberner toute l'année ?
+
+681
+00:44:19,494 --> 00:44:20,745
+Méga-riches.
+
+682
+00:44:21,162 --> 00:44:22,705
+On sera des crapules célèbres ?
+
+683
+00:44:22,789 --> 00:44:24,165
+Méga-célèbres.
+
+684
+00:44:25,083 --> 00:44:27,126
+Tu vois le costard de Jack Horner ?
+
+685
+00:44:28,044 --> 00:44:31,047
+J'en aurai un,
+sauf qu'il sera plus violet.
+
+686
+00:44:31,130 --> 00:44:32,590
+Deux fois plus violet.
+
+687
+00:44:32,674 --> 00:44:34,133
+Méga-violet.
+
+688
+00:44:34,217 --> 00:44:35,176
+Chouette.
+
+689
+00:44:35,260 --> 00:44:37,053
+Les célèbres crapules débarquent !
+
+690
+00:44:37,136 --> 00:44:39,222
+- On fait la course !
+- T'es trop vieux.
+
+691
+00:44:39,305 --> 00:44:41,641
+Quel vœu peut accomplir tout ça ?
+
+692
+00:44:42,267 --> 00:44:46,104
+Je peux pas te le dire,
+sinon, il se réalisera pas.
+
+693
+00:44:46,187 --> 00:44:47,647
+Désolée, c'est la règle.
+
+694
+00:44:47,730 --> 00:44:50,358
+Allez, tu peux le dire à maman.
+
+695
+00:44:50,441 --> 00:44:51,985
+Arrête, s'il te plaît.
+
+696
+00:44:53,486 --> 00:44:56,739
+Allez, on a des chats à choper.
+
+697
+00:45:00,952 --> 00:45:03,288
+C'est la règle ? Ça veut dire quoi ?
+
+698
+00:45:03,371 --> 00:45:05,665
+Que je vous dirai pas mon vœu.
+
+699
+00:45:05,748 --> 00:45:08,293
+Il veut pas
+parce que c'est un truc débile,
+
+700
+00:45:08,376 --> 00:45:10,587
+genre un démêlant
+pour son tas de poils.
+
+701
+00:45:10,670 --> 00:45:12,422
+C'est élégant.
+
+702
+00:45:12,505 --> 00:45:14,799
+Et toi, Kitty, c'est quoi ton vœu ?
+
+703
+00:45:16,009 --> 00:45:18,803
+Motus, il paraît que c'est la règle.
+
+704
+00:45:19,179 --> 00:45:21,139
+Je parie que c'est un truc débile.
+
+705
+00:45:24,392 --> 00:45:25,602
+T'es tellement...
+
+706
+00:45:31,316 --> 00:45:33,359
+C'est sûrement la Poche aux Pétales.
+
+707
+00:45:37,238 --> 00:45:39,073
+Pousse-toi, fleur démoniaque.
+
+708
+00:45:39,157 --> 00:45:40,992
+Ça va tailler sec !
+
+709
+00:45:49,375 --> 00:45:50,418
+Merci.
+
+710
+00:45:53,338 --> 00:45:54,797
+On n'a pas le temps.
+
+711
+00:45:54,881 --> 00:45:57,467
+Perro, je croyais que ton chemin
+était facile.
+
+712
+00:45:58,718 --> 00:45:59,802
+Vous savez,
+
+713
+00:45:59,886 --> 00:46:02,722
+il faut prendre le temps
+de sentir ces roses.
+
+714
+00:46:02,805 --> 00:46:03,973
+Sérieux ?
+
+715
+00:46:05,642 --> 00:46:06,726
+C'est débile.
+
+716
+00:46:06,809 --> 00:46:07,977
+Ça pue la conn...
+
+717
+00:46:09,687 --> 00:46:10,897
+Regardez.
+
+718
+00:46:14,442 --> 00:46:16,945
+Ne vous pressez pas,
+prenez votre temps
+
+719
+00:46:17,028 --> 00:46:20,073
+et appréciez ce qui s'offre à vous.
+
+720
+00:46:23,743 --> 00:46:25,745
+Il est nunuche, son chemin.
+
+721
+00:46:26,538 --> 00:46:28,331
+- Et kitsch.
+- Et rasoir.
+
+722
+00:46:28,414 --> 00:46:30,124
+Et bizarre, comme lui.
+
+723
+00:46:30,625 --> 00:46:33,962
+Pourquoi t'es si ridicule ?
+C'est quoi, ton histoire ?
+
+724
+00:46:34,045 --> 00:46:35,338
+Mon histoire ?
+
+725
+00:46:35,421 --> 00:46:37,882
+Elle est vraiment très drôle.
+
+726
+00:46:38,633 --> 00:46:41,511
+Quand j'étais chiot,
+je vivais avec ma portée
+
+727
+00:46:41,594 --> 00:46:43,638
+dans une famille de farceurs
+
+728
+00:46:43,721 --> 00:46:45,098
+qui jouaient à cache-cache
+
+729
+00:46:45,181 --> 00:46:48,560
+et c'était toujours moi qui comptais,
+comme par hasard.
+
+730
+00:46:48,643 --> 00:46:52,021
+Ils m'ont mis dans un carton,
+une poubelle.
+
+731
+00:46:52,105 --> 00:46:55,692
+Quoi qu'ils fassent,
+je les retrouvais toujours.
+
+732
+00:46:56,109 --> 00:46:59,445
+Un jour, ils ont innové
+en me mettant dans une chaussette
+
+733
+00:46:59,529 --> 00:47:01,239
+avec une pierre.
+
+734
+00:47:01,823 --> 00:47:04,409
+Et ils m'ont jeté dans une rivière.
+
+735
+00:47:05,785 --> 00:47:08,788
+J'ai grignoté la chaussette
+et je suis remonté
+
+736
+00:47:08,872 --> 00:47:10,248
+à la surface.
+
+737
+00:47:10,582 --> 00:47:11,749
+Je les ai jamais retrouvés,
+
+738
+00:47:11,833 --> 00:47:14,711
+ma portée non plus,
+donc je continue de chercher.
+
+739
+00:47:16,087 --> 00:47:19,465
+J'ai jamais entendu
+une histoire drôle aussi triste.
+
+740
+00:47:20,216 --> 00:47:21,467
+N'empêche,
+
+741
+00:47:21,551 --> 00:47:24,470
+la chaussette en question,
+j'ai grandi dedans.
+
+742
+00:47:24,554 --> 00:47:27,932
+Ça me fait une super histoire
+et un pull gratos,
+
+743
+00:47:28,016 --> 00:47:29,058
+j'ai tout gagné.
+
+744
+00:47:29,142 --> 00:47:30,685
+T'as rien gagné.
+
+745
+00:47:30,768 --> 00:47:32,812
+C'est toi qui devrais faire un vœu.
+
+746
+00:47:32,896 --> 00:47:35,190
+J'ai un pull et deux meilleurs amis,
+
+747
+00:47:35,273 --> 00:47:36,858
+j'ai tout ce qu'il me faut.
+
+748
+00:47:36,941 --> 00:47:38,276
+Pas besoin de magie.
+
+749
+00:47:51,414 --> 00:47:52,457
+Délicieux.
+
+750
+00:47:58,588 --> 00:48:00,256
+On se rapproche.
+
+751
+00:48:00,340 --> 00:48:02,884
+Je sens deux chats, un chien et...
+
+752
+00:48:02,967 --> 00:48:04,052
+des tartes ?
+
+753
+00:48:05,011 --> 00:48:08,515
+Ne seraient-ce pas les nigauds
+qui ont tenté de me voler ?
+
+754
+00:48:08,598 --> 00:48:09,974
+Il se souvient de nous.
+
+755
+00:48:10,058 --> 00:48:11,184
+Contemplez.
+
+756
+00:48:11,267 --> 00:48:12,268
+Excal...
+
+757
+00:48:15,438 --> 00:48:16,689
+Excalibur !
+
+758
+00:48:17,357 --> 00:48:20,610
+Impossible d'enlever le caillou,
+mais ça en jette, non ?
+
+759
+00:48:20,693 --> 00:48:22,028
+Il nous rattrape !
+
+760
+00:48:22,111 --> 00:48:23,530
+Plus à gauche.
+
+761
+00:48:23,947 --> 00:48:25,198
+Voilà.
+
+762
+00:48:25,281 --> 00:48:27,283
+- Plus vite !
+- Il vise mon popotin.
+
+763
+00:48:30,411 --> 00:48:31,704
+Bouclette !
+
+764
+00:48:44,217 --> 00:48:46,219
+- À la découpe !
+- Compris.
+
+765
+00:48:46,302 --> 00:48:48,054
+Pas besoin de me le dire deux fois,
+
+766
+00:48:48,137 --> 00:48:50,890
+je vais trancher ce satané Ficus Lyra...
+
+767
+00:48:52,267 --> 00:48:53,434
+Jerry, non !
+
+768
+00:48:55,061 --> 00:48:56,479
+Vengez-moi, Jack !
+
+769
+00:48:56,563 --> 00:48:57,647
+Crève !
+
+770
+00:49:00,692 --> 00:49:03,194
+On va sortir la grosse artillerie.
+
+771
+00:49:03,278 --> 00:49:05,029
+J'ai vu un peu large.
+
+772
+00:49:05,488 --> 00:49:08,324
+Goûter magique :
+ce sera pour plus tard.
+
+773
+00:49:09,242 --> 00:49:10,451
+Bonne pioche.
+
+774
+00:49:11,703 --> 00:49:13,746
+Sauterelle magique,
+
+775
+00:49:13,830 --> 00:49:16,165
+dévaste tout, goinfre-toi,
+
+776
+00:49:16,249 --> 00:49:17,917
+dévore ces fleurs !
+
+777
+00:49:18,835 --> 00:49:21,045
+Je ne suis pas une sauterelle magique,
+
+778
+00:49:21,129 --> 00:49:23,131
+je ne suis même pas une sauterelle.
+
+779
+00:49:23,214 --> 00:49:26,885
+T'es quoi, un grillon diabolique,
+un génie du mal ?
+
+780
+00:49:26,968 --> 00:49:28,511
+Jette un sort à cette forêt.
+
+781
+00:49:28,595 --> 00:49:30,263
+Je ne jette pas de sort.
+
+782
+00:49:30,346 --> 00:49:32,056
+Tu fais quoi, alors ?
+
+783
+00:49:32,140 --> 00:49:33,516
+Je vous juge.
+
+784
+00:49:33,600 --> 00:49:35,226
+Je m'assois sur votre épaule
+
+785
+00:49:35,310 --> 00:49:38,438
+et je juge vos actes,
+votre sens de la moralité.
+
+786
+00:49:38,813 --> 00:49:40,148
+Je suis votre conscience.
+
+787
+00:49:40,231 --> 00:49:41,691
+J'ai vraiment vu trop large.
+
+788
+00:49:43,151 --> 00:49:44,277
+Aidez-moi, Jack !
+
+789
+00:49:45,278 --> 00:49:47,071
+Vous n'allez pas l'aider ?
+
+790
+00:49:47,155 --> 00:49:48,531
+Vous perdez beaucoup d'hommes.
+
+791
+00:49:48,615 --> 00:49:51,326
+Je ne m'inquiète pas pour mon personnel,
+
+792
+00:49:51,826 --> 00:49:54,495
+j'ai un sac sans fond
+d'armes magiques.
+
+793
+00:49:54,579 --> 00:49:57,624
+Grâce à elles, j'aurai mon vœu,
+même si toute l'équipe
+
+794
+00:49:57,707 --> 00:49:59,292
+doit y passer.
+
+795
+00:49:59,375 --> 00:50:01,753
+Jack, en tant que votre conscience...
+
+796
+00:50:01,836 --> 00:50:04,797
+Ma parole, c'est le noble phénix !
+
+797
+00:50:04,881 --> 00:50:08,259
+Symbole de renaissance et d'éternelle...
+
+798
+00:50:10,220 --> 00:50:13,139
+C'est de la balle, ce lance-flammes !
+
+799
+00:50:13,515 --> 00:50:16,601
+Il va me donner du fil à retordre,
+celui-là.
+
+800
+00:50:16,684 --> 00:50:20,063
+Écartez-vous ou je vous enflamme !
+
+801
+00:50:27,153 --> 00:50:29,447
+Au travail, fleurs démoniaques.
+
+802
+00:50:30,323 --> 00:50:31,449
+Bientôt...
+
+803
+00:50:35,995 --> 00:50:37,956
+Kitty, je crois que je l'ai.
+
+804
+00:50:39,332 --> 00:50:40,875
+Fais-moi confiance.
+
+805
+00:50:42,001 --> 00:50:44,045
+Doucement, tu vas te fouler un œil.
+
+806
+00:50:44,128 --> 00:50:46,172
+Je te remontre, regarde.
+
+807
+00:50:46,256 --> 00:50:48,049
+Fais-moi confiance.
+
+808
+00:50:49,634 --> 00:50:52,637
+Je te fais confiance,
+à Chat aussi, même sans ça.
+
+809
+00:50:53,888 --> 00:50:54,931
+Grave erreur.
+
+810
+00:50:55,014 --> 00:50:56,558
+Pourquoi ? Vous êtes mes amis.
+
+811
+00:50:56,641 --> 00:50:58,643
+Tu sais à quoi ça mène, la confiance ?
+
+812
+00:50:58,726 --> 00:51:01,354
+Une chaussette, une pierre
+et un plouf dans la rivière.
+
+813
+00:51:01,729 --> 00:51:03,314
+Faut bien se fier à quelqu'un.
+
+814
+00:51:03,398 --> 00:51:04,899
+Sans moi.
+
+815
+00:51:04,983 --> 00:51:07,861
+Chaque fois que j'ai baissé ma garde,
+on m'a doublée,
+
+816
+00:51:07,944 --> 00:51:09,946
+coupé les griffes, trompée, trahie.
+
+817
+00:51:11,656 --> 00:51:12,991
+Plus jamais.
+
+818
+00:51:13,074 --> 00:51:14,492
+J'avance en solo.
+
+819
+00:51:14,909 --> 00:51:18,705
+Je garde mes secrets
+et je ne dévoile pas mon jeu.
+
+820
+00:51:19,080 --> 00:51:20,415
+C'est comme ça qu'on gagne.
+
+821
+00:51:20,874 --> 00:51:23,334
+Crois-moi, n'aie confiance en personne.
+
+822
+00:51:28,798 --> 00:51:30,550
+Incroyable !
+
+823
+00:51:32,093 --> 00:51:33,469
+Trop forte.
+
+824
+00:51:33,553 --> 00:51:35,972
+Kitty, je me disais...
+
+825
+00:51:36,055 --> 00:51:37,599
+Tu te disais quoi ?
+
+826
+00:51:37,682 --> 00:51:41,227
+Ma magnifique barbe
+est très élégante, certes,
+
+827
+00:51:41,311 --> 00:51:45,356
+mais elle prive tout le monde
+d'une vue dégagée
+
+828
+00:51:45,440 --> 00:51:46,691
+sur ce faciès.
+
+829
+00:51:48,026 --> 00:51:49,569
+Si ça peut te faire plaisir,
+
+830
+00:51:49,652 --> 00:51:51,613
+je pourrais me faire à l'idée...
+
+831
+00:51:51,696 --> 00:51:53,239
+Je m'y suis faite.
+
+832
+00:51:53,323 --> 00:51:55,200
+Ta barbe, garde-la.
+
+833
+00:51:55,783 --> 00:51:57,327
+C'est que...
+
+834
+00:51:58,578 --> 00:52:00,914
+Pitié, enlève-moi ce truc urticant !
+
+835
+00:52:01,247 --> 00:52:03,166
+J'ai le visage qui brûle !
+
+836
+00:52:03,249 --> 00:52:07,462
+Attends, le grand Chat Potté
+demande de l'aide ?
+
+837
+00:52:07,545 --> 00:52:10,840
+Aide-moi.
+T'avais raison, c'est répugnant.
+
+838
+00:52:10,924 --> 00:52:11,925
+Et ?
+
+839
+00:52:12,008 --> 00:52:15,011
+On dirait qu'un putois
+a grimpé sur mon visage.
+
+840
+00:52:15,094 --> 00:52:16,137
+Et ?
+
+841
+00:52:16,471 --> 00:52:18,765
+Et qu'il est mort de honte.
+
+842
+00:52:18,848 --> 00:52:20,308
+Ok, face de putois.
+
+843
+00:52:22,477 --> 00:52:23,937
+Je vais pas me faire prier.
+
+844
+00:52:28,066 --> 00:52:30,485
+Tout doux, dans le sens du poil.
+
+845
+00:52:30,902 --> 00:52:32,445
+Faut aller dans le sens du poil.
+
+846
+00:52:32,529 --> 00:52:35,490
+Je sais ce que je fais,
+je suis une pro de la lame.
+
+847
+00:52:35,990 --> 00:52:37,367
+Pas vrai, Perrito ?
+
+848
+00:52:38,368 --> 00:52:40,912
+Quoi ? C'est pas censé être drôle.
+
+849
+00:52:50,672 --> 00:52:52,966
+Je retrouve enfin ce beau visage
+
+850
+00:52:53,049 --> 00:52:55,343
+que j'avais pas vu depuis...
+
+851
+00:52:56,052 --> 00:52:57,720
+Santa Coloma.
+
+852
+00:53:01,641 --> 00:53:02,725
+Tu l'as bien mérité.
+
+853
+00:53:04,060 --> 00:53:07,272
+Tiens, je te donne mon poignard
+à tête de chat.
+
+854
+00:53:08,815 --> 00:53:09,899
+Merci.
+
+855
+00:53:09,983 --> 00:53:11,192
+C'est mieux qu'un bâton.
+
+856
+00:53:13,987 --> 00:53:16,114
+<i>Vaya con Dios</i>, bâton-épée.
+
+857
+00:53:19,659 --> 00:53:21,870
+Perro, qu'est-ce que tu fais ?
+
+858
+00:53:24,289 --> 00:53:27,208
+- Où est passé ce zigoto ?
+- Tu l'aimes bien.
+
+859
+00:53:27,292 --> 00:53:28,585
+Non, c'est faux.
+
+860
+00:53:28,668 --> 00:53:30,545
+T'es prêt à lui donner un nom.
+
+861
+00:53:30,628 --> 00:53:33,715
+Non, j'ai besoin de son chemin
+pour obtenir mon vœu.
+
+862
+00:53:33,798 --> 00:53:35,884
+- Mon vœu.
+- Mon vœu !
+
+863
+00:53:38,136 --> 00:53:39,387
+Désolé.
+
+864
+00:53:47,228 --> 00:53:49,230
+- Les Douze Briochards.
+- Relâche-le.
+
+865
+00:53:49,314 --> 00:53:51,649
+Je sais pas,
+je vais peut-être le garder.
+
+866
+00:53:51,733 --> 00:53:53,693
+Tu veux une friandise ?
+
+867
+00:53:53,776 --> 00:53:55,695
+Sympa, ton sac de mémé.
+
+868
+00:53:55,778 --> 00:53:57,405
+C'est pas un sac de mémé,
+
+869
+00:53:57,488 --> 00:53:59,741
+c'est un sac de nounou magique.
+
+870
+00:54:00,116 --> 00:54:01,743
+Balancez la carte
+
+871
+00:54:01,826 --> 00:54:05,830
+ou on va voir ce que ça fait,
+une corne de licorne.
+
+872
+00:54:07,999 --> 00:54:10,502
+Vous n'allez pas tirer sur un chiot,
+Jack.
+
+873
+00:54:10,585 --> 00:54:11,878
+Si, en pleine face.
+
+874
+00:54:14,088 --> 00:54:15,632
+Donne-nous la carte
+
+875
+00:54:15,715 --> 00:54:17,342
+ou le mitron va morfler.
+
+876
+00:54:17,425 --> 00:54:20,303
+Je ne l'ai même pas, Boucle d'horreur.
+
+877
+00:54:21,429 --> 00:54:23,223
+Arrête de me jeter mes hommes !
+
+878
+00:54:24,516 --> 00:54:25,558
+Viens ici.
+
+879
+00:54:25,642 --> 00:54:26,893
+Le Chat Potté a la carte !
+
+880
+00:54:26,976 --> 00:54:28,686
+Tous sur lui !
+
+881
+00:54:32,398 --> 00:54:33,816
+J'ai un plan.
+
+882
+00:54:33,900 --> 00:54:35,985
+Le premier qui a le chien
+a le vœu !
+
+883
+00:54:36,861 --> 00:54:38,154
+Quoi ?
+
+884
+00:54:38,238 --> 00:54:39,364
+C'est pas vrai !
+
+885
+00:54:50,333 --> 00:54:52,001
+Bouge pas.
+
+886
+00:55:00,093 --> 00:55:01,469
+Ça fait donc ça.
+
+887
+00:55:01,553 --> 00:55:03,263
+- Cool.
+- Non, pas cool.
+
+888
+00:55:03,972 --> 00:55:05,056
+Vous m'avez eue.
+
+889
+00:55:06,766 --> 00:55:08,184
+Le viseur est faussé.
+
+890
+00:55:09,811 --> 00:55:11,980
+- Je le tiens, M. Horner !
+- Oups.
+
+891
+00:55:42,677 --> 00:55:44,053
+Chat, attends !
+
+892
+00:55:45,346 --> 00:55:46,431
+Perro ?
+
+893
+00:55:46,514 --> 00:55:47,849
+Merci pour la carte.
+
+894
+00:55:49,767 --> 00:55:51,019
+PINS DE LA NOSTALGIE
+
+895
+00:55:59,652 --> 00:56:01,404
+Vous vous êtes fait crapuler
+
+896
+00:56:01,487 --> 00:56:03,656
+par le clan des trois ours.
+
+897
+00:56:04,199 --> 00:56:05,909
+Ciao, bande de nazes !
+
+898
+00:56:09,454 --> 00:56:11,122
+Chat, t'es où ?
+
+899
+00:56:21,424 --> 00:56:22,509
+Chat ?
+
+900
+00:56:32,894 --> 00:56:33,895
+Ça va pas ?
+
+901
+00:57:07,679 --> 00:57:09,389
+Merci, Perrito.
+
+902
+00:57:10,014 --> 00:57:11,432
+Qu'est-ce qui t'arrive ?
+
+903
+00:57:15,019 --> 00:57:17,897
+J'en suis à ma dernière vie
+
+904
+00:57:21,401 --> 00:57:22,902
+et j'ai peur.
+
+905
+00:57:23,903 --> 00:57:26,114
+C'est normal d'avoir peur.
+
+906
+00:57:26,197 --> 00:57:28,491
+Pas pour le Chat Potté.
+
+907
+00:57:28,575 --> 00:57:30,952
+Je suis censé être un héros téméraire,
+
+908
+00:57:31,035 --> 00:57:32,662
+une légende.
+
+909
+00:57:32,745 --> 00:57:35,331
+Mais sans vies de rechange,
+
+910
+00:57:35,415 --> 00:57:37,584
+je ne suis rien.
+
+911
+00:57:38,293 --> 00:57:40,753
+J'ai besoin de ce vœu
+pour les récupérer.
+
+912
+00:57:40,837 --> 00:57:42,589
+Parles-en à Kitty, elle...
+
+913
+00:57:42,672 --> 00:57:45,383
+Non, faut pas qu'elle l'apprenne.
+
+914
+00:57:49,262 --> 00:57:51,139
+Elle ne me refera jamais confiance,
+
+915
+00:57:51,556 --> 00:57:53,349
+pas après Santa Coloma.
+
+916
+00:57:53,433 --> 00:57:55,643
+C'est juste un casse qui a mal tourné.
+
+917
+00:57:55,727 --> 00:57:58,146
+C'était pas un casse.
+
+918
+00:57:58,771 --> 00:58:00,231
+C'était une église
+
+919
+00:58:00,607 --> 00:58:02,233
+avec un prêtre,
+
+920
+00:58:02,317 --> 00:58:03,860
+des invités
+
+921
+00:58:03,943 --> 00:58:05,320
+et Kitty.
+
+922
+00:58:05,904 --> 00:58:07,363
+Tout était là,
+
+923
+00:58:07,447 --> 00:58:08,698
+sauf moi.
+
+924
+00:58:09,407 --> 00:58:11,117
+J'ai fui, là encore.
+
+925
+00:58:15,788 --> 00:58:18,249
+Tu l'as abandonnée devant l'autel ?
+
+926
+00:58:18,333 --> 00:58:19,459
+J'ai eu tort.
+
+927
+00:58:20,210 --> 00:58:21,920
+J'ai honte.
+
+928
+00:58:22,003 --> 00:58:24,714
+Je m'en veux
+de lui avoir fait autant de peine.
+
+929
+00:58:25,798 --> 00:58:27,717
+Je regrette ce jour.
+
+930
+00:58:29,552 --> 00:58:31,971
+Tu devrais peut-être le lui dire.
+
+931
+00:58:32,055 --> 00:58:33,765
+Ça te ferait du bien.
+
+932
+00:58:34,224 --> 00:58:36,100
+À elle aussi.
+
+933
+00:58:38,895 --> 00:58:39,938
+Chat !
+
+934
+00:58:40,271 --> 00:58:41,481
+Chien !
+
+935
+00:58:41,564 --> 00:58:43,816
+Vous voilà.
+Qu'est-ce qui s'est passé ?
+
+936
+00:58:43,900 --> 00:58:46,152
+Kitty, j'ai perdu la carte.
+
+937
+00:58:46,236 --> 00:58:47,695
+J'ai pas assuré.
+
+938
+00:58:47,779 --> 00:58:50,073
+On va la récupérer,
+on n'est pas des minets.
+
+939
+00:58:50,156 --> 00:58:51,616
+Qui t'a parlé de minets ?
+
+940
+00:58:51,699 --> 00:58:52,784
+De quoi ?
+
+941
+00:58:53,993 --> 00:58:55,078
+Non, rien.
+
+942
+00:58:55,161 --> 00:58:59,624
+Les ours, il faut les retrouver
+avant qu'ils ne trouvent l'étoile.
+
+943
+00:59:01,334 --> 00:59:03,378
+On est tout près.
+
+944
+00:59:03,920 --> 00:59:05,880
+Enfin, on y est.
+
+945
+00:59:05,964 --> 00:59:07,882
+J'ai le goût du vœu à la bouche.
+
+946
+00:59:07,966 --> 00:59:09,717
+Tu sais quel goût il a ?
+
+947
+00:59:09,801 --> 00:59:11,761
+- De tarte ?
+- De tarte !
+
+948
+00:59:11,845 --> 00:59:13,179
+<i>Qui a mangé les tartes ?</i>
+
+949
+00:59:13,263 --> 00:59:14,848
+<i>Qui a mangé les tartes ?</i>
+
+950
+00:59:14,931 --> 00:59:18,017
+<i>C'est nous, c'est nous
+qui avons mangé les tartes !</i>
+
+951
+00:59:18,893 --> 00:59:20,144
+Ça va être top.
+
+952
+00:59:20,979 --> 00:59:22,105
+Imaginez un peu,
+
+953
+00:59:22,188 --> 00:59:24,524
+le plus célèbre syndicat du crime.
+
+954
+00:59:24,607 --> 00:59:27,110
+Pas le plus célèbre
+syndicat du crime, chéri,
+
+955
+00:59:27,193 --> 00:59:29,696
+la plus célèbre famille de crapules.
+
+956
+00:59:29,779 --> 00:59:31,406
+Pas vrai, Bouclette ?
+
+957
+00:59:34,284 --> 00:59:36,452
+Regardez, la carte est toute floue !
+
+958
+00:59:37,078 --> 00:59:38,663
+T'as fait quoi ? Donne.
+
+959
+00:59:40,456 --> 00:59:41,666
+Pas le droit de mordre !
+
+960
+00:59:43,251 --> 00:59:45,378
+Toi, tu repères, moi, j'attrape.
+
+961
+00:59:45,461 --> 00:59:47,046
+Je tiens la carte, pigé ?
+
+962
+00:59:50,133 --> 00:59:53,178
+"Dans votre quête, ouvrez les yeux,
+
+963
+00:59:53,261 --> 00:59:56,139
+votre vœu est peut-être bien
+devant eux."
+
+964
+00:59:56,222 --> 00:59:58,641
+Ça veut dire quoi, ce charabia ?
+
+965
+01:00:00,310 --> 01:00:01,936
+Devant nos yeux.
+
+966
+01:00:02,020 --> 01:00:03,938
+On dirait notre cabane.
+
+967
+01:00:04,022 --> 01:00:06,649
+Notre cabane
+au milieu de la Forêt Sombre ?
+
+968
+01:00:06,733 --> 01:00:09,527
+Bébé, fais-nous un coup de reniflette.
+
+969
+01:00:10,361 --> 01:00:11,779
+Y a un truc qui cuit.
+
+970
+01:00:14,032 --> 01:00:15,408
+N'ouvrez pas cette porte.
+
+971
+01:00:15,992 --> 01:00:17,869
+On est à la maison !
+Bonjour, la porte.
+
+972
+01:00:17,952 --> 01:00:19,162
+N'entrez pas...
+
+973
+01:00:19,245 --> 01:00:20,872
+On fait juste un petit tour.
+
+974
+01:00:20,955 --> 01:00:23,124
+- Bonjour, les chaises.
+- Si on hibernait ?
+
+975
+01:00:23,208 --> 01:00:24,709
+Bonjour, le miel.
+
+976
+01:00:24,792 --> 01:00:26,961
+Salut, vieux frère.
+
+977
+01:00:27,045 --> 01:00:30,048
+Tu m'as manqué, si tu...
+
+978
+01:00:31,549 --> 01:00:33,968
+Bouclette, du porridge.
+
+979
+01:00:34,052 --> 01:00:36,137
+Il est exactement comme tu l'aimes.
+
+980
+01:00:36,221 --> 01:00:38,223
+C'est jamais comme elle aime.
+
+981
+01:00:38,306 --> 01:00:39,599
+Arrêtez, tous.
+
+982
+01:00:39,682 --> 01:00:41,851
+Nos vœux ont peut-être été exaucés.
+
+983
+01:00:41,935 --> 01:00:44,103
+Arrêtez, aucun vœu n'a été exaucé,
+
+984
+01:00:44,187 --> 01:00:45,188
+c'est une épreuve.
+
+985
+01:00:45,855 --> 01:00:48,191
+La forêt nous joue des tours.
+
+986
+01:00:48,274 --> 01:00:50,527
+Tout ça n'est pas réel, rien...
+
+987
+01:00:51,236 --> 01:00:53,488
+RECUEIL DE CONTES DE FÉES
+
+988
+01:00:59,744 --> 01:01:01,204
+BOUCLETTE
+
+989
+01:01:01,621 --> 01:01:03,498
+C'était ton livre préféré.
+
+990
+01:01:03,581 --> 01:01:06,167
+Tu le regardais pendant des heures.
+
+991
+01:01:23,268 --> 01:01:24,769
+Trop dur.
+
+992
+01:01:27,313 --> 01:01:28,773
+Trop mou.
+
+993
+01:01:33,820 --> 01:01:35,989
+Parfait.
+
+994
+01:01:37,073 --> 01:01:39,117
+C'est ce jour-là.
+
+995
+01:01:39,200 --> 01:01:40,410
+Quoi, maman ?
+
+996
+01:01:40,493 --> 01:01:41,953
+Le jour où une orpheline
+
+997
+01:01:42,036 --> 01:01:44,998
+s'est introduite chez nous
+pour voler nos cœurs.
+
+998
+01:01:49,419 --> 01:01:50,712
+Le jour où notre vie
+
+999
+01:01:51,254 --> 01:01:53,173
+est devenue parfaite.
+
+1000
+01:01:56,968 --> 01:01:58,428
+Ça donne quoi ?
+
+1001
+01:01:58,511 --> 01:02:00,221
+Vous voyez quelque chose ?
+
+1002
+01:02:00,305 --> 01:02:01,514
+Pas encore, Perrito.
+
+1003
+01:02:02,599 --> 01:02:03,600
+Tout va bien ?
+
+1004
+01:02:04,100 --> 01:02:06,728
+Tout va parfaitement bien.
+
+1005
+01:02:11,191 --> 01:02:13,276
+Si tu voulais tellement ma main,
+
+1006
+01:02:13,359 --> 01:02:15,028
+il suffisait de la demander.
+
+1007
+01:02:16,905 --> 01:02:19,866
+N'hésite pas à me remonter
+quand t'as un moment.
+
+1008
+01:02:20,867 --> 01:02:24,954
+Ça me rappelle la dernière fois
+que je t'ai accordé ma main.
+
+1009
+01:02:25,038 --> 01:02:27,582
+Sauf que cette fois-là,
+tu t'es dégonflé.
+
+1010
+01:02:39,552 --> 01:02:41,346
+À propos de cette journée...
+
+1011
+01:02:41,679 --> 01:02:44,724
+Le Chat Potté
+n'est pas censé avoir peur,
+
+1012
+01:02:44,807 --> 01:02:47,769
+mais devant l'église de Santa Coloma,
+
+1013
+01:02:49,354 --> 01:02:51,064
+c'était
+
+1014
+01:02:51,147 --> 01:02:54,359
+la première fois
+que j'éprouvais de la peur.
+
+1015
+01:02:54,442 --> 01:02:55,568
+Alors,
+
+1016
+01:02:56,069 --> 01:02:57,403
+j'ai fui.
+
+1017
+01:02:58,696 --> 01:03:01,407
+C'était une erreur, Kitty.
+
+1018
+01:03:01,491 --> 01:03:02,742
+C'est pas grave.
+
+1019
+01:03:03,493 --> 01:03:05,203
+- C'était lâche.
+- C'est pas grave.
+
+1020
+01:03:05,286 --> 01:03:07,288
+- Toi, seule, devant l'autel.
+- Chat.
+
+1021
+01:03:07,372 --> 01:03:09,415
+Dans ta magnifique robe meringue.
+
+1022
+01:03:09,499 --> 01:03:11,459
+Chat, c'est pas grave.
+
+1023
+01:03:12,460 --> 01:03:14,212
+Je suis pas venue non plus.
+
+1024
+01:03:14,838 --> 01:03:15,839
+Quoi ?
+
+1025
+01:03:16,339 --> 01:03:18,341
+Comment ça, t'es pas venue ?
+
+1026
+01:03:18,675 --> 01:03:22,470
+Je savais que je rivaliserais jamais
+avec ton grand amour.
+
+1027
+01:03:22,554 --> 01:03:24,389
+- Qui ça ?
+- Toi-même.
+
+1028
+01:03:24,472 --> 01:03:25,390
+La légende.
+
+1029
+01:03:26,599 --> 01:03:28,810
+J'allais pas me pointer
+pour ce chat-là.
+
+1030
+01:03:30,770 --> 01:03:33,314
+Mais tu n'es plus ce chat, on dirait.
+
+1031
+01:03:36,734 --> 01:03:39,028
+Tout va bien là-haut ?
+
+1032
+01:03:39,112 --> 01:03:41,656
+J'ai le pouce en l'air, pour info.
+
+1033
+01:03:44,951 --> 01:03:46,035
+Regarde.
+
+1034
+01:03:48,788 --> 01:03:50,039
+Dis, la punaise,
+
+1035
+01:03:50,123 --> 01:03:53,001
+j'attends que les chats volent la carte
+pour les tuer
+
+1036
+01:03:53,084 --> 01:03:55,753
+ou je tue tout le monde à la fois ?
+
+1037
+01:03:55,837 --> 01:03:57,672
+Je commence à croire
+
+1038
+01:03:57,755 --> 01:04:00,175
+que vous n'avez aucun respect
+pour la vie.
+
+1039
+01:04:00,258 --> 01:04:03,052
+Moi ? Non.
+Ceux-là, je les adore.
+
+1040
+01:04:04,345 --> 01:04:06,556
+Serrez les fessiers,
+sinon ça s'affaisse.
+
+1041
+01:04:07,599 --> 01:04:10,393
+Il y a du bon en chaque être humain.
+
+1042
+01:04:10,476 --> 01:04:13,354
+Jack, il faudrait peut-être
+creuser un peu.
+
+1043
+01:04:13,438 --> 01:04:15,481
+Parlez-moi de votre enfance.
+
+1044
+01:04:17,442 --> 01:04:19,694
+Je n'avais pas grand-chose :
+
+1045
+01:04:19,777 --> 01:04:21,279
+des parents aimants,
+
+1046
+01:04:21,362 --> 01:04:23,656
+la stabilité, un manoir
+
+1047
+01:04:23,740 --> 01:04:27,368
+et une entreprise de pâtisserie
+florissante en héritage.
+
+1048
+01:04:27,452 --> 01:04:29,037
+Ce genre de foutaises.
+
+1049
+01:04:31,122 --> 01:04:33,082
+Mais quand mon vœu sera exaucé,
+
+1050
+01:04:33,166 --> 01:04:36,961
+j'aurai enfin la seule chose
+qui me rendra heureux.
+
+1051
+01:04:37,879 --> 01:04:39,380
+Quoi donc ?
+
+1052
+01:04:39,464 --> 01:04:42,091
+Toute la magie de la terre
+
+1053
+01:04:42,175 --> 01:04:45,386
+pour moi, et personne d'autre.
+
+1054
+01:04:45,470 --> 01:04:47,847
+- C'est trop demander ?
+- Oui !
+
+1055
+01:04:47,931 --> 01:04:49,182
+Fin de la discussion.
+
+1056
+01:04:49,265 --> 01:04:50,767
+Allez, traversez.
+
+1057
+01:04:57,899 --> 01:04:59,234
+Aidez-moi !
+
+1058
+01:04:59,317 --> 01:05:02,028
+Nom d'une poule aux œufs d'or !
+
+1059
+01:05:02,111 --> 01:05:03,863
+Tu sais ce qu'on dit :
+
+1060
+01:05:03,947 --> 01:05:06,991
+on fait pas de tarte sans casser des os.
+
+1061
+01:05:09,661 --> 01:05:12,872
+C'est horrible. Votre vœu est horrible.
+
+1062
+01:05:12,956 --> 01:05:14,082
+Vous êtes horrible !
+
+1063
+01:05:14,165 --> 01:05:16,459
+Vous êtes un incorrigible monstre.
+
+1064
+01:05:17,585 --> 01:05:19,462
+T'en as mis du temps, abruti.
+
+1065
+01:05:22,006 --> 01:05:23,424
+T'es pas une pipelette, toi ?
+
+1066
+01:05:28,096 --> 01:05:29,973
+Tu prends la fenêtre,
+moi, la cheminée.
+
+1067
+01:05:30,056 --> 01:05:32,350
+- Et moi, je prends quoi ?
+- Ton temps.
+
+1068
+01:05:32,433 --> 01:05:34,269
+Tu restes ici et...
+
+1069
+01:05:34,727 --> 01:05:36,145
+Tu couvres nos arrières.
+
+1070
+01:05:36,229 --> 01:05:38,606
+En couverture,
+je protège vos derrières.
+
+1071
+01:05:38,690 --> 01:05:39,858
+Tous ensemble.
+
+1072
+01:05:39,941 --> 01:05:41,025
+Prêts ?
+
+1073
+01:05:41,109 --> 01:05:42,986
+Allez, l'équipe des cop's !
+
+1074
+01:05:43,069 --> 01:05:45,738
+L'équipe des cop's ?
+J'ai pas validé ça.
+
+1075
+01:05:45,822 --> 01:05:48,074
+Oui, tu peux trouver mieux.
+
+1076
+01:05:48,157 --> 01:05:50,326
+C'est provisoire, je vais bosser dessus.
+
+1077
+01:05:50,410 --> 01:05:51,786
+Fonce, champion.
+
+1078
+01:05:51,870 --> 01:05:53,162
+Calme ta joie.
+
+1079
+01:05:55,957 --> 01:05:58,668
+- Prêt à récupérer notre vœu ?
+- Notre vœu ?
+
+1080
+01:05:58,751 --> 01:06:01,963
+Je me suis dit que si tu la jouais fine,
+
+1081
+01:06:02,046 --> 01:06:04,841
+on pourrait peut-être
+se partager le vœu.
+
+1082
+01:06:05,842 --> 01:06:07,552
+Se partager le vœu ?
+
+1083
+01:06:27,280 --> 01:06:28,281
+Elle est plus là !
+
+1084
+01:06:28,907 --> 01:06:30,617
+Debout, on a chouré la carte.
+
+1085
+01:06:30,700 --> 01:06:32,702
+C'est quoi, ce raffut ?
+
+1086
+01:06:32,785 --> 01:06:34,204
+T'entends ce qu'elle dit ?
+
+1087
+01:06:34,287 --> 01:06:35,705
+La carte a disparu.
+
+1088
+01:06:35,788 --> 01:06:37,707
+Quelqu'un l'a prise.
+
+1089
+01:06:39,918 --> 01:06:42,670
+Tu nous crapules,
+alors qu'on t'a crapulé ?
+
+1090
+01:06:42,754 --> 01:06:44,422
+On recrapule pas.
+
+1091
+01:06:44,506 --> 01:06:45,924
+Tu vas finir en pâtée.
+
+1092
+01:06:47,634 --> 01:06:48,885
+Elle est à vous.
+
+1093
+01:06:50,136 --> 01:06:52,388
+T'es coincée, Pattes de Velours.
+
+1094
+01:06:52,472 --> 01:06:55,266
+Vraiment ?
+Voyons ce que propose la carte.
+
+1095
+01:06:58,728 --> 01:07:00,563
+- Notre cabane !
+- Mon miel !
+
+1096
+01:07:03,650 --> 01:07:05,193
+Même pas en rêve.
+
+1097
+01:07:19,666 --> 01:07:21,000
+On arrive !
+
+1098
+01:07:21,084 --> 01:07:22,335
+Bouge, gros bêta !
+
+1099
+01:07:22,418 --> 01:07:24,420
+Tenez bon, les cop's !
+
+1100
+01:07:26,297 --> 01:07:27,632
+Désolé !
+
+1101
+01:07:31,761 --> 01:07:33,680
+Tu danses ? C'est moi qui mène.
+
+1102
+01:07:35,473 --> 01:07:36,766
+Trop chaud !
+
+1103
+01:07:40,228 --> 01:07:41,855
+Trop froid ! Choc thermique !
+
+1104
+01:07:47,485 --> 01:07:48,570
+C'est parf...
+
+1105
+01:08:03,168 --> 01:08:04,419
+C'est quoi, ça ?
+
+1106
+01:08:13,761 --> 01:08:15,596
+MONTAGNES DU MALHEUR
+
+1107
+01:08:25,023 --> 01:08:26,149
+Il vous manque rien ?
+
+1108
+01:08:34,282 --> 01:08:35,200
+Ils ont Perrito !
+
+1109
+01:08:35,533 --> 01:08:37,285
+T'inquiète, on va les suivre avec ça.
+
+1110
+01:08:39,037 --> 01:08:40,330
+{\an8}Attends.
+
+1111
+01:08:40,412 --> 01:08:42,040
+{\an8}GOUFFRE DES ÂMES PERDUES
+
+1112
+01:08:46,586 --> 01:08:47,629
+Attention !
+
+1113
+01:08:55,511 --> 01:08:56,513
+Regarde.
+
+1114
+01:08:59,349 --> 01:09:01,809
+Ils sont là, pas très loin.
+
+1115
+01:09:01,893 --> 01:09:03,728
+Récupère Perrito,
+je me débrouillerai.
+
+1116
+01:09:23,665 --> 01:09:25,124
+Chat...
+
+1117
+01:09:32,465 --> 01:09:33,633
+Salut, beau gosse.
+
+1118
+01:09:35,176 --> 01:09:37,428
+T'es nerveux, <i>amigo </i>?
+
+1119
+01:09:37,511 --> 01:09:38,930
+- Qu'est-ce qui se passe ?
+- Salut, Chat.
+
+1120
+01:09:39,555 --> 01:09:40,932
+Un gaspacho ?
+
+1121
+01:09:41,015 --> 01:09:42,433
+Ça fait un bail.
+
+1122
+01:09:42,850 --> 01:09:44,935
+Toujours un plaisir de me revoir.
+
+1123
+01:09:45,603 --> 01:09:47,604
+<i>Hola</i>, numéro 9.
+
+1124
+01:09:48,147 --> 01:09:50,358
+Que la fête commence,
+on est tous là.
+
+1125
+01:09:52,318 --> 01:09:53,486
+Vous savez quoi,
+
+1126
+01:09:53,903 --> 01:09:55,530
+je vous aime, les gars.
+
+1127
+01:09:55,613 --> 01:09:58,366
+Vous êtes mes vies passées ?
+
+1128
+01:09:58,449 --> 01:10:00,660
+Les reflets du bon vieux temps.
+
+1129
+01:10:02,745 --> 01:10:05,290
+- Plus grands que nature.
+- Une légende.
+
+1130
+01:10:05,373 --> 01:10:06,374
+On danse.
+
+1131
+01:10:06,457 --> 01:10:07,667
+On chante.
+
+1132
+01:10:07,750 --> 01:10:09,669
+On est forts comme un taureau.
+
+1133
+01:10:11,087 --> 01:10:12,839
+Numéro 9, ça te rappelle rien ?
+
+1134
+01:10:12,922 --> 01:10:16,593
+<i>Qui est le plus téméraire des héros ?</i>
+
+1135
+01:10:24,642 --> 01:10:26,644
+C'est râpé, c'est ça ?
+
+1136
+01:10:26,728 --> 01:10:30,440
+On se fait voler la carte qu'on a volée
+et on a que dalle.
+
+1137
+01:10:30,523 --> 01:10:32,025
+Peut-être
+
+1138
+01:10:32,108 --> 01:10:34,485
+qu'on pourrait être heureux sans vœu.
+
+1139
+01:10:34,569 --> 01:10:37,030
+Qu'est-ce qu'on attend ?
+Ils reviendront pas.
+
+1140
+01:10:37,113 --> 01:10:38,948
+Adieu, pantalon violet.
+
+1141
+01:10:39,032 --> 01:10:41,159
+Ils reviendront, pour lui.
+
+1142
+01:10:42,076 --> 01:10:43,536
+Ça, c'est clair.
+
+1143
+01:10:43,620 --> 01:10:45,997
+Ils me sauvent
+à chaque fois qu'on m'enlève,
+
+1144
+01:10:46,080 --> 01:10:47,457
+et c'est fréquent,
+
+1145
+01:10:47,540 --> 01:10:49,542
+car on forme une équipe.
+
+1146
+01:10:49,626 --> 01:10:51,044
+C'est choupinet.
+
+1147
+01:10:51,503 --> 01:10:52,879
+L'équipe des cop's.
+
+1148
+01:10:52,962 --> 01:10:54,672
+C'est nul, comme nom.
+
+1149
+01:10:55,215 --> 01:10:56,925
+On bosse encore dessus.
+
+1150
+01:10:57,008 --> 01:11:00,345
+Les chats risqueront pas leur vie
+pour ce stupide cabot.
+
+1151
+01:11:00,428 --> 01:11:02,764
+Tu dis ça parce que tu veux le manger.
+
+1152
+01:11:02,847 --> 01:11:06,768
+Pas du tout, je veux juste
+le câliner avec mes canines.
+
+1153
+01:11:06,851 --> 01:11:09,103
+Arrête de penser qu'à ton ventre.
+
+1154
+01:11:09,187 --> 01:11:11,272
+Arrête de penser tout court,
+
+1155
+01:11:11,356 --> 01:11:13,149
+tu te fais du mal, guignol.
+
+1156
+01:11:13,233 --> 01:11:14,567
+Guignol.
+
+1157
+01:11:14,651 --> 01:11:16,236
+Et pourquoi j'écouterais
+
+1158
+01:11:16,319 --> 01:11:19,072
+une orpheline voleuse de porridge ?
+
+1159
+01:11:19,155 --> 01:11:20,323
+T'es même pas un ours.
+
+1160
+01:11:20,406 --> 01:11:21,741
+Et bim.
+
+1161
+01:11:21,824 --> 01:11:23,409
+Plus que toi, déjà.
+
+1162
+01:11:23,493 --> 01:11:25,328
+Là, t'es cassé !
+
+1163
+01:11:25,411 --> 01:11:27,622
+T'es qu'une Cendrillon en carton.
+
+1164
+01:11:29,123 --> 01:11:31,876
+Ça, c'est gonflé.
+Tu sais ce que t'es, toi ?
+
+1165
+01:11:31,960 --> 01:11:32,961
+Tiens-toi bien.
+
+1166
+01:11:33,044 --> 01:11:36,130
+Un demeuré, bouboule,
+long à la détente, analphabète,
+
+1167
+01:11:36,214 --> 01:11:39,551
+bourré de tiques,
+avec des crottes qui pendent.
+
+1168
+01:11:39,634 --> 01:11:41,177
+J'ai pas de crottes qui pendent.
+
+1169
+01:11:41,261 --> 01:11:43,137
+Si, t'en as.
+
+1170
+01:11:43,221 --> 01:11:44,264
+Des crottes qui pendent !
+
+1171
+01:11:44,347 --> 01:11:47,642
+Écrase, le clebs,
+ou tu vas faire popo par les narines.
+
+1172
+01:11:48,852 --> 01:11:51,938
+Je suis dans la battle !
+Ok, c'est parti.
+
+1173
+01:11:52,772 --> 01:11:56,568
+Bande de barbares, accros au miel,
+bouffeurs de m...,
+
+1174
+01:11:56,651 --> 01:11:58,611
+têtes de c..., balais à ch...,
+
+1175
+01:11:58,695 --> 01:11:59,696
+trous de b...
+
+1176
+01:12:01,406 --> 01:12:02,740
+et grosses truffes !
+
+1177
+01:12:04,909 --> 01:12:06,369
+J'aime bien son style.
+
+1178
+01:12:07,203 --> 01:12:08,621
+C'est génial.
+
+1179
+01:12:08,705 --> 01:12:12,250
+Se moquer, taquiner, vanner,
+popoter par les narines.
+
+1180
+01:12:12,959 --> 01:12:15,545
+Si seulement j'avais une famille
+comme ça.
+
+1181
+01:12:16,588 --> 01:12:18,756
+D'orphelin à orpheline, Bouclette,
+
+1182
+01:12:18,840 --> 01:12:20,967
+tu as gagné le gros lot.
+
+1183
+01:12:22,677 --> 01:12:25,763
+Moi aussi, j'aime bien son style.
+Si on le gardait ?
+
+1184
+01:12:26,389 --> 01:12:27,515
+{\an8}JE VOUS AI CRAPULÉS
+
+1185
+01:12:27,599 --> 01:12:28,725
+{\an8}Où il est ?
+
+1186
+01:12:28,808 --> 01:12:30,143
+On avait dit pas de recrapulage.
+
+1187
+01:12:30,226 --> 01:12:31,227
+Non, Bébé !
+
+1188
+01:12:33,688 --> 01:12:34,856
+Pas les abeilles !
+
+1189
+01:12:34,939 --> 01:12:36,608
+<i>La légende ne meurt jamais !</i>
+
+1190
+01:12:41,821 --> 01:12:42,822
+Encore une !
+
+1191
+01:12:44,115 --> 01:12:46,951
+Désolé, les gars, c'était sympa,
+
+1192
+01:12:47,035 --> 01:12:49,495
+mais comment je sors d'ici ?
+
+1193
+01:12:49,579 --> 01:12:51,122
+Je dois retrouver Chien et Kitty.
+
+1194
+01:12:52,707 --> 01:12:54,584
+Je croyais que tu cherchais le vœu.
+
+1195
+01:12:54,667 --> 01:12:56,628
+T'as la carte, pas besoin d'eux.
+
+1196
+01:12:57,212 --> 01:13:00,298
+Récupère tes vies
+et redeviens la légende
+
+1197
+01:13:00,381 --> 01:13:01,841
+de ville en ville.
+
+1198
+01:13:03,426 --> 01:13:05,053
+De fête en fête.
+
+1199
+01:13:07,889 --> 01:13:10,141
+Le Chat Potté chevauche en solo.
+
+1200
+01:13:15,271 --> 01:13:16,856
+Le Chat Potté chevauche
+
+1201
+01:13:17,357 --> 01:13:18,483
+en solo.
+
+1202
+01:13:20,276 --> 01:13:21,861
+La légende était-elle si grande
+
+1203
+01:13:22,362 --> 01:13:24,614
+qu'il n'y avait de place
+pour personne d'autre ?
+
+1204
+01:13:29,160 --> 01:13:32,497
+La légende est toujours aussi grande,
+c'est toi qui as rapetissé.
+
+1205
+01:13:32,580 --> 01:13:34,165
+T'as changé, mon vieux.
+
+1206
+01:13:34,749 --> 01:13:36,751
+Il paraît qu'il traîne avec un chien.
+
+1207
+01:13:36,835 --> 01:13:38,711
+Il n'a même plus d'épée.
+
+1208
+01:13:39,420 --> 01:13:40,713
+Vous parlez d'un héros.
+
+1209
+01:13:40,797 --> 01:13:42,090
+T'es devenu un trouillard.
+
+1210
+01:13:42,173 --> 01:13:44,551
+Faudrait l'appeler le Chat Poltron !
+
+1211
+01:13:45,760 --> 01:13:48,471
+Paraît que son nouveau nom,
+c'est Pickles.
+
+1212
+01:13:48,555 --> 01:13:49,764
+La honte.
+
+1213
+01:13:50,265 --> 01:13:52,600
+Où est ta litière, Pickles ?
+
+1214
+01:13:52,684 --> 01:13:54,644
+Vous êtes tous des nuls,
+
+1215
+01:13:54,727 --> 01:13:56,688
+et ça me coûte de le dire.
+
+1216
+01:13:56,771 --> 01:13:58,690
+Je m'en sortirai tout seul.
+
+1217
+01:13:58,773 --> 01:14:00,650
+Tu te crois meilleur que nous ?
+
+1218
+01:14:00,733 --> 01:14:03,903
+Sans nous,
+tu es condamné à vivre dans la...
+
+1219
+01:14:03,987 --> 01:14:05,905
+Peur.
+
+1220
+01:14:05,989 --> 01:14:06,990
+Toi ?
+
+1221
+01:14:07,073 --> 01:14:09,701
+J'adore l'odeur de la peur.
+
+1222
+01:14:10,243 --> 01:14:11,995
+C'est grisant.
+
+1223
+01:14:12,078 --> 01:14:13,079
+Ah bon ?
+
+1224
+01:14:13,705 --> 01:14:16,708
+Désolé de gâcher ta fête
+avec tes vies passées
+
+1225
+01:14:16,791 --> 01:14:18,918
+ou plutôt tes morts passées,
+
+1226
+01:14:19,002 --> 01:14:20,503
+comme j'aime à le dire.
+
+1227
+01:14:21,796 --> 01:14:24,299
+J'étais présent à chacune d'elles,
+
+1228
+01:14:25,633 --> 01:14:28,803
+chaque fin futile.
+
+1229
+01:14:30,305 --> 01:14:33,558
+Mais tu ne m'as jamais remarqué,
+
+1230
+01:14:33,641 --> 01:14:38,021
+car le Chat Potté rit au nez de la mort,
+
+1231
+01:14:38,104 --> 01:14:39,105
+pas vrai ?
+
+1232
+01:14:41,065 --> 01:14:43,526
+Mais tu ne ris plus aujourd'hui.
+
+1233
+01:14:44,986 --> 01:14:46,863
+Tu n'es pas chasseur de primes ?
+
+1234
+01:14:46,946 --> 01:14:48,198
+Tu es...
+
+1235
+01:14:48,281 --> 01:14:49,365
+La mort.
+
+1236
+01:14:52,827 --> 01:14:57,165
+Pas au sens métaphorique, ni rhétorique,
+ni poétique, ni théorique,
+
+1237
+01:14:57,248 --> 01:15:00,126
+ni quelque autre fantaisie que ce soit.
+
+1238
+01:15:00,210 --> 01:15:03,588
+Je suis la mort, pure et simple,
+
+1239
+01:15:03,671 --> 01:15:06,132
+et je suis venu te chercher, Chat Potté.
+
+1240
+01:15:06,549 --> 01:15:08,218
+Mais je suis toujours en vie.
+
+1241
+01:15:09,219 --> 01:15:10,512
+Tu sais,
+
+1242
+01:15:10,595 --> 01:15:12,096
+j'aime pas les chats.
+
+1243
+01:15:12,180 --> 01:15:15,558
+Je trouve l'idée même d'avoir neuf vies
+
+1244
+01:15:15,642 --> 01:15:17,185
+absurde.
+
+1245
+01:15:17,268 --> 01:15:18,686
+Et toi,
+
+1246
+01:15:18,770 --> 01:15:20,688
+tu n'as respecté aucune d'elles.
+
+1247
+01:15:21,439 --> 01:15:23,316
+Je nous rendrais service
+
+1248
+01:15:23,399 --> 01:15:25,944
+en t'ôtant la dernière maintenant.
+
+1249
+01:15:26,027 --> 01:15:27,362
+C'est de la triche !
+
+1250
+01:15:28,321 --> 01:15:29,489
+Faut pas le dire.
+
+1251
+01:15:30,281 --> 01:15:31,824
+Cours, fais ton vœu !
+
+1252
+01:15:32,909 --> 01:15:34,869
+C'est ça, cours le chercher.
+
+1253
+01:15:34,953 --> 01:15:36,538
+Ça m'amuse d'autant plus.
+
+1254
+01:15:54,013 --> 01:15:55,098
+Cours.
+
+1255
+01:16:01,437 --> 01:16:02,647
+Cours.
+
+1256
+01:16:02,730 --> 01:16:04,440
+Chat, on est là !
+
+1257
+01:16:08,152 --> 01:16:09,696
+Où il va ?
+
+1258
+01:17:15,011 --> 01:17:18,181
+C'est la troisième fois
+qu'on passe devant ce rocher.
+
+1259
+01:17:18,264 --> 01:17:19,349
+Encore !
+
+1260
+01:17:19,432 --> 01:17:21,976
+J'y peux rien, j'ai perdu la piste.
+
+1261
+01:17:22,060 --> 01:17:24,312
+T'as qu'un truc à faire.
+
+1262
+01:17:24,395 --> 01:17:27,482
+Ton seul petit atout, c'est ta truffe,
+
+1263
+01:17:27,565 --> 01:17:29,108
+et visiblement, elle sert à rien.
+
+1264
+01:17:29,192 --> 01:17:30,276
+Bouclette.
+
+1265
+01:17:30,360 --> 01:17:32,779
+Je crois que ton vœu, c'est du baratin.
+
+1266
+01:17:32,862 --> 01:17:34,489
+- Arrête.
+- Alors c'est quoi ?
+
+1267
+01:17:34,572 --> 01:17:36,449
+Qu'est-ce qui serait parfait ?
+
+1268
+01:17:36,991 --> 01:17:38,451
+Qu'est-ce qui justifie
+
+1269
+01:17:38,535 --> 01:17:40,870
+qu'on galère dans cette forêt hantée ?
+
+1270
+01:17:40,954 --> 01:17:42,956
+Avoir une famille ! Voilà.
+
+1271
+01:17:43,039 --> 01:17:44,207
+Une famille normale.
+
+1272
+01:17:44,874 --> 01:17:47,168
+Et tout sera enfin parfait.
+
+1273
+01:17:50,296 --> 01:17:52,298
+Ce qui serait parfait pour toi,
+
+1274
+01:17:52,799 --> 01:17:54,259
+c'est de nous lâcher ?
+
+1275
+01:17:55,301 --> 01:17:58,513
+Certains profitent
+tant qu'il y a du porridge.
+
+1276
+01:17:58,596 --> 01:17:59,597
+Hein, Bouclette ?
+
+1277
+01:18:03,142 --> 01:18:04,394
+Mais enfin,
+
+1278
+01:18:04,477 --> 01:18:07,522
+vous pensiez quand même pas
+que j'allais rester ?
+
+1279
+01:18:08,022 --> 01:18:09,023
+Je suis pas un ours.
+
+1280
+01:18:18,533 --> 01:18:21,411
+Je me doutais que c'était trop beau
+pour durer.
+
+1281
+01:18:22,245 --> 01:18:24,038
+Qu'on soit ta famille ou non,
+
+1282
+01:18:24,998 --> 01:18:27,834
+si ça peut te rendre heureuse,
+
+1283
+01:18:27,917 --> 01:18:29,669
+on t'obtiendra ce vœu.
+
+1284
+01:18:30,503 --> 01:18:31,838
+Venez, les garçons.
+
+1285
+01:18:40,013 --> 01:18:42,974
+Je suis vraiment un bon garçon.
+
+1286
+01:18:51,941 --> 01:18:54,319
+"Étoile du soir, étoile d'espoir,
+
+1287
+01:18:54,402 --> 01:18:56,946
+première lueur dans le noir.
+
+1288
+01:18:57,030 --> 01:18:58,031
+J'aimerais..."
+
+1289
+01:18:58,114 --> 01:18:59,866
+Je me suis encore fait avoir.
+
+1290
+01:19:00,658 --> 01:19:02,285
+Tu peux pas comprendre.
+
+1291
+01:19:02,702 --> 01:19:06,039
+Quoi, que tu m'embobines
+depuis le début ?
+
+1292
+01:19:06,122 --> 01:19:07,749
+J'ai besoin de ce vœu.
+
+1293
+01:19:07,832 --> 01:19:10,251
+Ah oui ?
+Tu veux que je te dise mon vœu ?
+
+1294
+01:19:11,836 --> 01:19:13,880
+Avoir confiance en quelqu'un.
+
+1295
+01:19:15,798 --> 01:19:18,343
+J'ai jamais connu ça de ma vie.
+
+1296
+01:19:19,761 --> 01:19:21,846
+Je pensais avoir trouvé cette personne
+
+1297
+01:19:21,930 --> 01:19:23,515
+sans l'aide d'un vœu.
+
+1298
+01:19:24,557 --> 01:19:25,767
+Je pensais que c'était toi.
+
+1299
+01:19:27,477 --> 01:19:29,062
+Mais tu te défiles encore,
+
+1300
+01:19:29,145 --> 01:19:31,606
+tu restes le Chat Potté.
+
+1301
+01:19:32,023 --> 01:19:34,442
+C'est faux,
+je ne suis plus le Chat Potté.
+
+1302
+01:19:35,902 --> 01:19:37,612
+C'est ma dernière vie.
+
+1303
+01:19:38,571 --> 01:19:40,532
+Je dois récupérer mes vies.
+
+1304
+01:19:40,615 --> 01:19:42,075
+Sans elles,
+
+1305
+01:19:42,158 --> 01:19:43,368
+je ne suis plus...
+
+1306
+01:19:43,785 --> 01:19:44,953
+Quoi ? La légende ?
+
+1307
+01:19:48,581 --> 01:19:51,668
+Je rivalise toujours pas
+avec ton grand amour.
+
+1308
+01:19:52,293 --> 01:19:54,212
+Vas-y, récupère tes vies.
+
+1309
+01:19:56,256 --> 01:19:57,882
+Et reste en dehors des miennes.
+
+1310
+01:20:02,846 --> 01:20:04,931
+Kitty, la mort me court après !
+
+1311
+01:20:05,014 --> 01:20:06,307
+Quoi ?
+
+1312
+01:20:06,391 --> 01:20:08,226
+On m'a donné bien des noms,
+
+1313
+01:20:08,893 --> 01:20:10,311
+mais jamais la mort.
+
+1314
+01:20:10,395 --> 01:20:11,479
+Ça me plaît.
+
+1315
+01:20:11,563 --> 01:20:13,022
+C'est mon vœu.
+
+1316
+01:20:14,649 --> 01:20:16,317
+C'est le vœu de Bouclette.
+
+1317
+01:20:52,854 --> 01:20:53,771
+Chope-le !
+
+1318
+01:20:55,106 --> 01:20:56,524
+Poussez-vous de là !
+
+1319
+01:20:56,983 --> 01:20:58,193
+Je l'ai !
+
+1320
+01:20:58,276 --> 01:20:59,319
+Je l'ai plus.
+
+1321
+01:21:01,029 --> 01:21:02,113
+Elle est à moi !
+
+1322
+01:21:12,373 --> 01:21:14,250
+Bon sang, t'as foncé dessus !
+
+1323
+01:21:16,753 --> 01:21:18,880
+M. Horner, aidez-moi !
+
+1324
+01:21:18,963 --> 01:21:21,841
+C'est noté,
+mais j'ai d'autres chats à fouetter.
+
+1325
+01:21:22,800 --> 01:21:24,177
+M. Horner !
+
+1326
+01:21:34,854 --> 01:21:36,648
+La chasse est ouverte.
+
+1327
+01:21:37,941 --> 01:21:39,984
+Je t'achève, gros lard,
+
+1328
+01:21:40,068 --> 01:21:42,070
+et après, j'enfile tes fringues.
+
+1329
+01:21:42,153 --> 01:21:43,196
+Drôle d'idée.
+
+1330
+01:21:47,742 --> 01:21:48,910
+- Bébé !
+- Maman !
+
+1331
+01:21:48,993 --> 01:21:50,161
+Je te tiens !
+
+1332
+01:21:50,245 --> 01:21:51,955
+- Papa !
+- Fiston ! J'arrive.
+
+1333
+01:21:52,664 --> 01:21:53,748
+Au secours !
+
+1334
+01:21:54,415 --> 01:21:55,500
+Tiens bon !
+
+1335
+01:21:55,583 --> 01:21:57,252
+Ça m'aspire, aidez-moi !
+
+1336
+01:22:01,840 --> 01:22:03,383
+Tiens bon, fiston !
+
+1337
+01:22:04,342 --> 01:22:05,677
+Ça tire trop fort !
+
+1338
+01:22:06,177 --> 01:22:07,470
+Maman, je vais lâcher !
+
+1339
+01:22:13,977 --> 01:22:15,478
+Je te l'ai dit,
+
+1340
+01:22:15,562 --> 01:22:17,814
+toi, tu repères, moi, j'attrape.
+
+1341
+01:22:29,951 --> 01:22:32,120
+Pattes de Velours, que penses-tu
+
+1342
+01:22:32,203 --> 01:22:33,872
+de ces pommes ?
+
+1343
+01:22:33,955 --> 01:22:36,124
+Crève ! Tu vas exploser, oui.
+
+1344
+01:22:36,958 --> 01:22:38,418
+Pattes de velours.
+
+1345
+01:22:42,338 --> 01:22:43,339
+Tu sais,
+
+1346
+01:22:43,423 --> 01:22:46,885
+il est peut-être temps
+d'enterrer la hache de guerre ?
+
+1347
+01:22:48,887 --> 01:22:51,181
+J'aurais pas dû vendre la mèche.
+
+1348
+01:23:00,982 --> 01:23:02,984
+Je sais pas quoi faire de ça.
+
+1349
+01:23:03,735 --> 01:23:05,862
+Mais si tu as besoin de tes vies...
+
+1350
+01:23:06,487 --> 01:23:07,906
+Merci, Perrito.
+
+1351
+01:23:08,948 --> 01:23:10,033
+Tu sais,
+
+1352
+01:23:10,116 --> 01:23:13,578
+j'ai eu qu'une seule vie,
+mais grâce à toi et à Kitty,
+
+1353
+01:23:14,412 --> 01:23:16,706
+elle est devenue plus belle.
+
+1354
+01:23:16,789 --> 01:23:19,792
+Peut-être qu'une vie suffit.
+
+1355
+01:23:28,176 --> 01:23:29,052
+C'est quoi, ça ?
+
+1356
+01:23:36,643 --> 01:23:37,685
+C'est qui ?
+
+1357
+01:23:39,604 --> 01:23:41,022
+Il vient me chercher.
+
+1358
+01:23:53,243 --> 01:23:55,411
+La chasse a été agréable, Gato,
+
+1359
+01:23:55,495 --> 01:23:57,997
+mais je pense qu'on va s'arrêter là.
+
+1360
+01:24:00,750 --> 01:24:02,544
+{\an8}Tu vas choisir d'être lâche ?
+
+1361
+01:24:02,627 --> 01:24:04,754
+De courir récupérer tes vies ?
+
+1362
+01:24:06,381 --> 01:24:07,423
+Ou tu vas te battre ?
+
+1363
+01:24:12,679 --> 01:24:13,721
+Prends-la.
+
+1364
+01:24:16,015 --> 01:24:17,475
+Allez, prends-la.
+
+1365
+01:24:35,451 --> 01:24:36,536
+Quoi ?
+
+1366
+01:24:36,619 --> 01:24:39,205
+Tu vois défiler tes vies ?
+
+1367
+01:24:39,831 --> 01:24:40,874
+Non,
+
+1368
+01:24:41,207 --> 01:24:42,458
+une seule.
+
+1369
+01:24:43,084 --> 01:24:44,210
+J'arrête de fuir.
+
+1370
+01:24:49,090 --> 01:24:51,259
+Crains-moi si tu oses.
+
+1371
+01:24:53,428 --> 01:24:55,054
+Je vais me régaler.
+
+1372
+01:25:36,763 --> 01:25:38,681
+Faut que t'arrêtes de la perdre.
+
+1373
+01:25:52,779 --> 01:25:55,156
+Dis bonjour à mon poignard
+à tête de chat.
+
+1374
+01:26:21,516 --> 01:26:22,642
+Prends-la.
+
+1375
+01:26:25,270 --> 01:26:27,522
+Je ne te vaincrai jamais, <i>Lobo</i>,
+
+1376
+01:26:27,605 --> 01:26:30,525
+mais je ne renoncerai jamais
+à cette vie.
+
+1377
+01:26:56,384 --> 01:26:58,303
+Tu gâches tout mon plaisir.
+
+1378
+01:26:58,386 --> 01:27:01,848
+J'étais venu pour un arrogant,
+soi-disant légendaire,
+
+1379
+01:27:01,931 --> 01:27:04,017
+qui se croyait immortel.
+
+1380
+01:27:06,603 --> 01:27:08,479
+Mais je ne le vois plus.
+
+1381
+01:27:12,901 --> 01:27:16,362
+Vis ta vie, Chat Potté,
+vis-la pleinement.
+
+1382
+01:27:20,241 --> 01:27:23,119
+Tu sais qu'on se retrouvera,
+n'est-ce pas ?
+
+1383
+01:27:38,551 --> 01:27:39,594
+Tu sais,
+
+1384
+01:27:39,677 --> 01:27:41,763
+quand t'as dit
+que la mort te poursuivait,
+
+1385
+01:27:41,846 --> 01:27:44,349
+j'ai cru que t'exagérais.
+
+1386
+01:27:45,558 --> 01:27:46,726
+Le vœu est à toi.
+
+1387
+01:27:48,102 --> 01:27:49,771
+Tu mérites quelqu'un de confiance.
+
+1388
+01:27:55,068 --> 01:27:57,946
+Inutile, mon vœu s'est réalisé.
+
+1389
+01:27:58,029 --> 01:27:59,572
+Pas besoin de magie.
+
+1390
+01:28:11,626 --> 01:28:13,378
+Goûter magique.
+
+1391
+01:28:19,551 --> 01:28:21,219
+Nom d'un flageolet.
+
+1392
+01:28:21,845 --> 01:28:23,805
+J'ai eu peur de sortir tout nu,
+
+1393
+01:28:23,888 --> 01:28:25,849
+mais mes habits ont grandi aussi.
+
+1394
+01:28:25,932 --> 01:28:26,933
+Cool.
+
+1395
+01:28:27,767 --> 01:28:28,810
+Merci.
+
+1396
+01:28:30,937 --> 01:28:32,063
+Je vous tiens.
+
+1397
+01:28:32,397 --> 01:28:34,566
+Le vœu unique.
+
+1398
+01:28:34,649 --> 01:28:36,693
+Il est à moi.
+
+1399
+01:28:37,443 --> 01:28:40,113
+"Étoile du soir, étoile d'espoir,
+
+1400
+01:28:40,196 --> 01:28:42,031
+première lueur dans le noir."
+
+1401
+01:28:42,740 --> 01:28:43,783
+Perrito !
+
+1402
+01:28:43,867 --> 01:28:47,412
+"J'aimerais tellement,
+j'aimerais tant voir..."
+
+1403
+01:28:47,495 --> 01:28:49,122
+<i>Señor</i> Horner !
+
+1404
+01:28:50,123 --> 01:28:52,792
+Ne faites pas ce vœu, s'il vous plaît.
+
+1405
+01:28:54,043 --> 01:28:55,420
+S'il vous plaît.
+
+1406
+01:28:55,503 --> 01:28:56,546
+Tu fais quoi ?
+
+1407
+01:28:58,923 --> 01:29:00,842
+Tu t'es foulé la prunelle ?
+
+1408
+01:29:00,925 --> 01:29:02,927
+Pitié...
+
+1409
+01:29:07,182 --> 01:29:09,893
+Des océans de vulnérabilité.
+
+1410
+01:29:11,811 --> 01:29:13,813
+C'est tellement chou !
+
+1411
+01:29:13,897 --> 01:29:16,357
+Comment t'as pu croire
+que ça marcherait ?
+
+1412
+01:29:16,441 --> 01:29:18,276
+Ignores-tu que j'ai pas de cœur ?
+
+1413
+01:29:18,359 --> 01:29:20,069
+Au fait, tu saignes du nez.
+
+1414
+01:29:21,404 --> 01:29:23,114
+Je gagnais juste du temps
+
+1415
+01:29:23,198 --> 01:29:25,241
+pour l'équipe des cop's.
+
+1416
+01:29:27,076 --> 01:29:28,161
+L'équipe des quoi ?
+
+1417
+01:29:37,295 --> 01:29:39,047
+{\an8}L'épine espagnole !
+
+1418
+01:29:50,975 --> 01:29:52,185
+Qu'avez-vous fait ?
+
+1419
+01:29:53,895 --> 01:29:55,647
+La carte ! Mon vœu !
+
+1420
+01:29:55,730 --> 01:29:56,689
+Vite !
+
+1421
+01:30:01,194 --> 01:30:02,362
+Elle est à moi.
+
+1422
+01:30:06,115 --> 01:30:07,408
+Vous cherchez quelque chose ?
+
+1423
+01:30:07,492 --> 01:30:10,078
+Veuillez accepter ma démission,
+monsieur.
+
+1424
+01:30:13,081 --> 01:30:13,915
+Quoi ?
+
+1425
+01:30:14,832 --> 01:30:17,585
+Qu'ai-je donc fait pour mériter ça ?
+
+1426
+01:30:18,878 --> 01:30:20,797
+Quoi, précisément ?
+
+1427
+01:30:35,186 --> 01:30:39,107
+Désolée d'en rajouter,
+mais ne devrait-on pas faire un vœu ?
+
+1428
+01:30:39,190 --> 01:30:40,358
+Kitty,
+
+1429
+01:30:40,441 --> 01:30:42,610
+une seule vie à tes côtés,
+
+1430
+01:30:43,027 --> 01:30:45,029
+c'est tout ce que je souhaite.
+
+1431
+01:30:55,874 --> 01:30:58,209
+Tu m'as sauvé la vie, frangine.
+
+1432
+01:30:58,293 --> 01:31:02,088
+T'allais faire ton vœu,
+mais t'as préféré sauver ta famille
+
+1433
+01:31:02,172 --> 01:31:03,965
+et moi, j'ai eu très peur.
+
+1434
+01:31:04,591 --> 01:31:06,634
+Faut pas pleurnicher pour ça.
+
+1435
+01:31:06,718 --> 01:31:08,636
+À qui je volerais son porridge,
+sinon ?
+
+1436
+01:31:08,720 --> 01:31:11,389
+Désolée que t'aies pas eu ton vœu,
+ma puce.
+
+1437
+01:31:11,472 --> 01:31:14,184
+Si, maman, j'ai eu mon vœu.
+
+1438
+01:31:14,726 --> 01:31:16,060
+Tout est
+
+1439
+01:31:16,644 --> 01:31:18,438
+parfait.
+
+1440
+01:31:20,690 --> 01:31:22,442
+Ça y est, je pleure.
+
+1441
+01:31:23,610 --> 01:31:24,694
+Bon,
+
+1442
+01:31:24,777 --> 01:31:26,529
+si on rentrait hiberner ?
+
+1443
+01:31:26,613 --> 01:31:28,990
+T'es bien la fille de tes parents.
+
+1444
+01:31:29,073 --> 01:31:30,617
+J'y peux rien,
+
+1445
+01:31:31,784 --> 01:31:33,411
+j'ai gagné le gros lot.
+
+1446
+01:31:34,579 --> 01:31:36,247
+Pattes de Velours, Potté.
+
+1447
+01:31:36,331 --> 01:31:37,790
+- Bouclette.
+- Les ours.
+
+1448
+01:31:37,874 --> 01:31:40,919
+Bébé, t'as une idée
+pour notre prochain coup ?
+
+1449
+01:31:41,002 --> 01:31:42,837
+Tu vois la fabrique de tartes ?
+
+1450
+01:31:42,921 --> 01:31:46,758
+Je sens qu'il va y avoir
+comme un vide à la direction.
+
+1451
+01:31:47,383 --> 01:31:49,761
+Une affaire familiale, ça me motive !
+
+1452
+01:31:49,844 --> 01:31:53,473
+C'est le moment de parler
+de commerce éthique.
+
+1453
+01:31:54,557 --> 01:31:56,226
+Un cafard qui cause sur mon pif !
+
+1454
+01:31:56,309 --> 01:31:57,435
+Vire-le !
+
+1455
+01:31:57,519 --> 01:31:58,853
+Bouge pas.
+
+1456
+01:31:58,937 --> 01:31:59,938
+Attendez...
+
+1457
+01:32:02,023 --> 01:32:05,485
+Perrito, ton nom,
+si on le choisissait ensemble ?
+
+1458
+01:32:06,319 --> 01:32:08,029
+Que penses-tu de Chiquito ?
+
+1459
+01:32:08,655 --> 01:32:10,782
+Glouton ! Qu'est-ce que t'en dis ?
+
+1460
+01:32:10,865 --> 01:32:12,075
+Glouton ?
+
+1461
+01:32:12,158 --> 01:32:14,202
+J'ai trouvé, écoute ça :
+
+1462
+01:32:14,619 --> 01:32:15,620
+Jeff.
+
+1463
+01:32:16,621 --> 01:32:18,164
+Il a pas une tête de Jeff.
+
+1464
+01:32:19,332 --> 01:32:23,127
+Si ça vous va,
+je garderais bien Perrito.
+
+1465
+01:32:23,211 --> 01:32:26,714
+Ça me plaît, vu que mes amis
+m'appellent comme ça.
+
+1466
+01:32:27,173 --> 01:32:29,092
+Alors ce sera Perrito.
+
+1467
+01:32:31,344 --> 01:32:33,471
+Franchement, Glouton, c'est pas mal.
+
+1468
+01:32:33,555 --> 01:32:34,764
+Oui, mais non.
+
+1469
+01:32:34,848 --> 01:32:36,850
+On va bosser dessus.
+
+1470
+01:32:50,280 --> 01:32:52,782
+Je veux que ces vacances
+soient réussies.
+
+1471
+01:32:53,408 --> 01:32:55,660
+Tu as pris
+mon chapeau de capitaine ?
+
+1472
+01:32:55,743 --> 01:32:58,705
+Oui, gouverneur,
+et vos souliers, votre manteau
+
+1473
+01:32:58,788 --> 01:33:00,248
+et votre pyjama de capitaine.
+
+1474
+01:33:00,331 --> 01:33:01,708
+Et qu'en est-il de...
+
+1475
+01:33:01,791 --> 01:33:02,834
+Mon navire !
+
+1476
+01:33:03,960 --> 01:33:05,753
+Chat Potté !
+
+1477
+01:33:05,837 --> 01:33:08,381
+{\an8}L'ÉQUIPE DES COP'S
+
+1478
+01:33:12,218 --> 01:33:13,261
+Perrito !
+
+1479
+01:33:13,344 --> 01:33:14,637
+L'équipe des cop's ?
+
+1480
+01:33:14,721 --> 01:33:16,181
+On n'a pas validé ça.
+
+1481
+01:33:16,264 --> 01:33:18,641
+C'est vrai, on a l'air ridicules.
+
+1482
+01:33:18,725 --> 01:33:20,393
+Trop tard, c'est officiel.
+
+1483
+01:33:20,935 --> 01:33:21,895
+Mouette !
+
+1484
+01:33:23,646 --> 01:33:26,274
+Maintiens le cap, Perrito.
+
+1485
+01:33:27,025 --> 01:33:29,319
+Dacodac, mais pour aller où ?
+
+1486
+01:33:29,819 --> 01:33:32,197
+Rechercher de nouvelles aventures
+
+1487
+01:33:32,280 --> 01:33:34,949
+et retrouver de vieux amis.
+
+1488
+01:33:39,204 --> 01:33:41,664
+FORT FORT LOINTAIN
+
+1489
+01:42:07,420 --> 01:42:09,923
+Chansons :
+Universal Filmed Entertainment Group
+
+1490
+01:42:10,006 --> 01:42:11,799
+Sous-titrage TITRAFILM
+
+1491
+01:42:12,300 --> 01:42:13,510
+Encore là ?
+
+1492
+01:42:13,593 --> 01:42:14,844
+Sous-titres : Belinda Milosev
+
